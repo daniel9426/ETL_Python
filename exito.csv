@@ -1,0 +1,644 @@
+link,brand,warranty,processor,ram,hardDrive,grapCard,capGrapCard,opSystem,screenSize,price
+https://www.exito.com/computador-portatil-hp-pavilion-intel-core-i5-1135g7-8-gb-256-gb-ssd-15-eg0500la-3094735/p,HP,1 año,Intel Core i5-1135G7,8 GB,256 GB SSD,,,Windows 11,15.6 Pulgadas,2.060.859
+https://www.exito.com/computador-asus-vivobook-intel-core-i5-12500h-8-gb-512-gb-ssd-x1403za-km116w-3078718/p,ASUS,1 año,Intel Core i5-12500H,8 GB,512 GB SSD,,,Windows 11,14 Pulgadas,3.199.360
+https://www.exito.com/portatil-asus-vivobook-14-amd-ryzen-5-4500u-8-gb-512-gb-ssd-m413ia-eb1043w-3088077/p,ASUS,1 año,AMD Ryzen 5 4500U,8 GB,512 GB SSD,,,Windows 11,14 Pulgadas,1.979.400
+https://www.exito.com/computador-portatil-hp-amd-ryzen-5-5500u-8-gb-512-gb-ssd-15-ef2519la-3111529/p,HP,1 año,AMD Ryzen 5 5500U,8 GB,512 GB SSD,,,Windows,15.6 Pulgadas,2.089.450
+https://www.exito.com/computador-portatil-asus-asus-intel-core-i5-1240p-8-gb-512-gb-ssd-x1502za-bq242w-3076407/p,ASUS,1 año,Intel Core i5-1240P,8 GB,512 GB SSD,,,Windows 11,15.6 Pulgadas,2.759.900
+https://www.exito.com/computador-asus-intel-core-i5-1035g1-8-gb-1-tb-ssd-x415ja-ek2441w-3109896/p,ASUS,1 año,Intel Core i5-1035G1,8 GB,1 TB SSD,,,Windows 11 Home,14 Pulgadas,2.079.480
+https://www.exito.com/computador-asus-intel-core-i3-1005g1-8-gb-256-gb-ssd-x415ja-ek2096w-3109898/p,ASUS,1 año,Intel Core i3-1005G1,8 GB,256 GB SSD,,,Windows 11 Home,14 Pulgadas,1.499.500
+https://www.exito.com/computador-portatil-hp-pavilion-intel-core-i5-1135g7-8-gb-512-gb-ssd-15-eg0501la-3111527/p,HP,1 año,Intel Core i5-1135G7,8 GB,512 GB SSD,,,Windows,15.6 Pulgadas,2.713.410
+https://www.exito.com/computador-portatil-hp-intel-core-i3-1115g4-8-gb-512-gb-ssd-14-dq2504la-3081372/p,HP,1 año,Intel Core i3-1115G4,8 GB,512 GB SSD,,,Windows 11,14 Pulgadas,1.733.490
+https://www.exito.com/computador-portatil-lenovo-ideapad-3-amd-ryzen-5-5500u-8-gb-512-gb-ssd-ideapad-3-14alc6-3092843/p,LENOVO,1 año,AMD Ryzen 5 5500U,8 GB,512 GB SSD,,,Windows 11 Home 64 Single Language,14 Pulgadas,2.099.250
+https://www.exito.com/computador-asus-intel-core-i3-1005g1-8-gb-512-gb-ssd-x415ja-ek2095w-3109900/p,ASUS,1 año,Intel Core i3-1005G1,8 GB,512 GB SSD,,,Windows 11 Home,14 Pulgadas,1.583.520
+https://www.exito.com/portatil-lenovo-pentium-n5030-14-pulgadas-8-gb-256-gb-ssd-ip-3-14igl05-3054499/p,LENOVO,1 año,Pentium N5030,8 GB,256 GB SSD,,,Windows 10,14 Pulgadas,1.299.899
+https://www.exito.com/computador-portatil-hp-amd-ryzen-5-5500u-16-gb-512-gb-ssd-15-ef2501la-3071591/p,HP,1 año,AMD Ryzen 5 5500U,16 GB,512 GB SSD,,,Windows 11,15.6 Pulgadas,2.878.253
+https://www.exito.com/computador-portatil-asus-ryzen-5-4600h-16gb-ram-512gb-ssd-156-pulgadas-fhd-102438534-mp/p,ASUS,12 meses,Ryzen 5 4600H,16 GB,512 GB,,,Endless,14 Pulgadas,2.199.900
+https://www.exito.com/computador-asus-intel-core-i5-1035g1-8-gb-256-gb-ssd-x415ja-ek2030w-3109895/p,ASUS,1 año,Intel Core i5-1035G1,8 GB,256 GB SSD,,,Windows 11 Home,14 Pulgadas,1.854.470
+https://www.exito.com/portatil-ci5-8g-512gb-ssd-lenovo-ip-3-14iml05-3039680/p,LENOVO,1 año,Core I5-10210U 1,8 GB,512 GB SSD,,,Windows,14 Pulgadas,2.111.340
+https://www.exito.com/computador-asus-vivobook-16x-amd-ryzen-5-6-nucleos-8-gb-ram-512-gb-ssd-3109899/p,SSD ASUS,1 año,AMD Ryzen 5 5600H,8 GB,512 GB SSD,,,Windows 11 Home,16 Pulgadas,2.119.470
+https://www.exito.com/computador-portatil-hp-amd-ryzen-5-5500u-8-gb-256-gb-ssd-15-ef2506la-3081369/p,HP,1 año,AMD Ryzen 5 5500U,8 GB,256 GB SSD,,,Windows 11,15.6 Pulgadas,1.835.490
+https://www.exito.com/computador-portatil-lenovo-ip-3-14itl05-intel-core-i3-8-gb-512-gb-ssd-ip-3-14itl05-3078260/p,LENOVO,1 año,Intel Core i3-1115G4,8 GB,512 GB SSD,,,Windows 11,14 Pulgadas,1.799.280
+https://www.exito.com/computador-portatil-lenovo-ip-5-14itl05-intel-core-i7-16-gb-512-gb-ssd-ip-5-14itl05-3078269/p,LENOVO,1 año,Intel Core i7 1165G7,16 GB,512 GB SSD,,,Windows 11,14 Pulgadas,3.689.180
+https://www.exito.com/computador-acer-aspire-3-intel-core-i3-1005g1-8-gb-512-gb-ssd-a315-56-326h-3103211/p,ACER,12 meses,Intel Core i3 1005G1,8 GB,512 GB SSD,,,Windows 11,15.6 Pulgadas,1.649.250
+https://www.exito.com/computador-acer-aspire-3-a315-58-38jb-intel-core-i3-8-gb-256-gb-ssd-a315-58-38jb-3102786/p,ACER,12 meses,Intel Core i3 1115G4,8 GB,256 GB SSD,,,Windows 11,15.6 Pulgadas,1.699.320
+https://www.exito.com/computador-portatil-lenovo-ip-3-14itl05-intel-core-i3-8-gb-256-gb-ssd-ip-3-14itl05-3078261/p,LENOVO,1 año,Intel Core i3-1115G4,8 GB,256 GB SSD,,,Windows 11,14 Pulgadas,1.701.260
+https://www.exito.com/computador-portatil-hp-pavilion-amd-ryzen-5-4500u-8-gb-256-gb-ssd-15-eh0008la-3113717/p,SSD HP,1 año,AMD Ryzen 5 4500U,8 GB,256 GB SSD,,,Windows,15.6 Pulgadas,1.799.000
+https://www.exito.com/computador-portatil-hp-amd-ryzen-3-5500u-12-gb-256-gb-ssd-15-ef2504la-3081370/p,HP,1 año,AMD Ryzen 3 5300U,12 GB,256 GB SSD,,,Windows 11,15.6 Pulgadas,1.801.470
+https://www.exito.com/portatil-lenovo-celeron-n4020-14-pulgadas-4-gb-128-gb-ssd-ideapad-1-14igl05-3054495/p,LENOVO,1 año,Celeron N4020,4 GB,128 GB SSD,,,Windows 10 Home,14 Pulgadas,1.102.710
+https://www.exito.com/computador-portatil-hp-intel-core-i3-1115g4-8-gb-256-gb-ssd-14-dq2022la-3071594/p,HP,1 año,Intel Core i3-1115G4,8 GB,256 GB SSD,,,Windows 10,14 Pulgadas,1.710.666
+https://www.exito.com/computador-portatil-lenovo-ip-1-14ada7-amd-athlon-silver-8-gb-256-gb-ssd-ip-1-14ada7-3078268/p,LENOVO,1 año,AMD Athlon Silver 3050U,8 GB,256 GB SSD,,,Windows 11 Home 64,14 Pulgadas,1.406.330
+https://www.exito.com/computador-portatil-asus-zenbook-amd-ryzen-5-5500u-14-pulgadas-8-gb-512-gb-um425uaz-ki004w-3069450/p,GB ASUS,1 año,AMD Ryzen 5 5500U,8 GB,512 GB,,,Windows 11,14 Pulgadas,3.399.320
+https://www.exito.com/portatil-lenovo-ryzen-3-5300u-14-pulgadas-8-gb-256-gb-ssd-ideapad-3-14alc6-3054497/p,LENOVO,1 año,Ryzen 3 5300U,8 GB,256 GB SSD,,,Windows 11,14 Pulgadas,1.799.250
+https://www.exito.com/portatil-hp-amd-athlon-silver-s3050u-8-gb-256-gb-ssd-15-ef1501la-3082808/p,HP,1 año,AMD Athlon Silver 3050U,8 GB,256 GB SSD,,,Windows 11,15.6 Pulgadas,1.444.910
+https://www.exito.com/computador-asus-vivobook-14-amd-ryzen-7-4700u-16-gb-512-gb-ssd-m413ia-eb1048w-3089574/p,ASUS,1 año,AMD Ryzen 7 4700U,16 GB,512 GB SSD,,,Windows 11 Home,14 Pulgadas,2.999.400
+https://www.exito.com/computador-portatil-hp-amd-ryzen-7-5700u-12-gb-512-gb-ssd-15-ef2526la-3094734/p,HP,1 año,AMD Ryzen 7-5700U,12 GB,512 GB SSD,,,Windows 11,15.6 Pulgadas,3.023.370
+https://www.exito.com/computador-lenovo-intel-core-i7-4-16-gb-ram-512-gb-ssd-3117766/p,SSD LENOVO,1 año,Intel Core i7-1165G7,16 GB,512 GB SSD,Intel Iris X,,Windows 11 Home Single Language,14 Pulgadas,3.499.220
+https://www.exito.com/portatil-lenovo-ideapad-3-15alc05-amd-ryzen-7-156-pulgadas-16-gb-512-gb-ssd-ip-5-15alc05-3067356/p,LENOVO,1 año,AMD Ryzen 7 5700U,16 GB,512 GB SSD,,,Windows 11,15.6 Pulgadas,3.869.100
+https://www.exito.com/computador-portatil-hp-intel-core-i3-10110u-14-pulgadas-8-gb-512-gb-ssd-14-cf2066la-3064569/p,HP,12 meses,Intel Core i3-10110U,8 GB,512 GB SSD,,,Windows 10 Home 64,14 Pulgadas,1.499.000
+https://www.exito.com/computador-portatil-asus-asus-intel-core-i3-1115g4-14-pulgadas-8-gb-256-gb-ssd-x415ea-ek1181w-3069447/p,ASUS,1 año,Intel Core i3-1115G4,8 GB,256 GB SSD,,,Windows 11,14 Pulgadas,1.629.999
+https://www.exito.com/computador-lenovo-intel-core-i5-1155g7-8-gb-256-gb-ssd-ideapad-3-14itl6-3110243/p,SSD LENOVO,1 año,Intel Core i5-1155G7,8 GB,256 GB SSD,Intel Iris X,,Windows 11 Home Single Language,14 Pulgadas,1.979.340
+https://www.exito.com/portatil-asus-intel-core-i5-1135g7-156-pulgadas-8-gb-512-gb-ssd-90nb0sg2-m38210-3050413/p,ASUS,12 meses,Intel Core i5-1135G7,8 GB,512 GB SSD,Intel Iris X,,Windows 11 Home,15.6 Pulgadas,2.399.000
+https://www.exito.com/computador-asus-intel-core-i3-1115g4-8-gb-512-gb-ssd-x515ea-br3238w-3109902/p,ASUS,1 año,Intel Core i3-1115G4,8 GB,512 GB SSD,,,Windows 11 Home,15.6 Pulgadas,1.749.500
+https://www.exito.com/computador-portatil-hp-intel-core-i3-1115g4-12-gb-256-gb-ssd-15-dw3503la-3111530/p,HP,1 año,Intel Core i3-1115G4,12 GB,256 GB SSD,,,Windows,15.6 Pulgadas,1.785.530
+https://www.exito.com/computador-acer-aspire-3-amd-ryzen-5-7520u-8-gb-512-gb-ssd-a315-24p-r7jm-3116823/p,SSD ACER,12 meses,AMD Ryzen5 7520U,8 GB,512 GB SSD,,,Windows 11,15.6 Pulgadas,2.108.430
+https://www.exito.com/computador-portatil-hp-amd-ryzen-3-5300u-156-pulgadas-4-gb-256-gb-ssd-15-ef2503la-3064571/p,HP,1 año,AMD Ryzen 3 5300U,4 GB,256 GB SSD,,,Windows 11,15.6 Pulgadas,1.512.504
+https://www.exito.com/portatil-hp-intel-core-i7-1255u-12-gb-512-gb-ssd-15-dy5010la-3082810/p,HP,1 año,Intel Core i7-1255U,12 GB,512 GB SSD,,,Windows 11,15.6 Pulgadas,3.725.310
+https://www.exito.com/computador-portatil-hp-intel-core-i5-1135g7-4-gb-256-gb-ssd-14-dq2518la-3094730/p,HP,1 año,Intel Core i5-1135G7,4 GB,256 GB SSD,,,Windows 11,14 Pulgadas,1.819.480
+https://www.exito.com/computador-acer-aspire-3-a314-35-c36l-intel-celeron-4-gb-500-gb-hdd-a314-35-c36l-3101198/p,ACER,12 meses,Intel Celeron N4500,4 GB,500 GB HDD,,,Windows 10,14 Pulgadas,896.999
+https://www.exito.com/computador-portatil-lenovo-ip-1-14igl7-intel-celeron-4-gb-128-gb-ssd-ip-1-14igl7-3078259/p,LENOVO,1 año,Intel Celeron N4020,4 GB,128 GB SSD,,,Windows 11 Home 64,14 Pulgadas,1.101.420
+https://www.exito.com/computador-portatil-dell-3515-ryzen-5-3450u-16gbram256gbssd1tb-hdd-156-pulgadas-hd-102417529-mp/p,DELL,12 meses,,16 GB,Híbrido,,,DOS,15.6 Pulgadas,1.897.999
+https://www.exito.com/computador-acer-aspire-3-a315-59-30e9-intel-core-i3-8-gb-256-gb-ssd-a315-59-30e9-3115768/p,SSD ACER,12 meses,Intel Core i3 1215U,8 GB,256 GB SSD,,,Windows 11,15.6 Pulgadas,1.889.370
+https://www.exito.com/computador-lenovo-intel-core-i3-1215u-8-gb-512-gb-ssd-ideapad-1-14iau7-3110242/p,SSD LENOVO,1 año,Intel Core i3-1215U,8 GB,512 GB SSD,,,Windows 11 Home Single Language,14 Pulgadas,1.884.350
+https://www.exito.com/computador-portatil-lenovo-intel-i3-1115g4-12gb-ram-512gb-ssd-14-pulgadas-fhd-ideapad-3-102559567-mp/p,LENOVO,12 meses,,12 GB,512 GB,,,DOS,14 Pulgadas,1.599.900
+https://www.exito.com/computador-asus-zenbook-amd-ryzen-5-5600h-16-gb-512-gb-ssd-um425qa-ki180w-3078717/p,ASUS,1 año,AMD Ryzen 5 5600H,16 GB,512 GB SSD,,,Windows 11,14 Pulgadas,3.599.900
+https://www.exito.com/computador-portatil-hp-240-g7-intel-celeron-n4020-ram-4gb-dd-500gb-linux-102575252-mp/p,HP,12 meses,,4 GB,Mecánico 500 GB,,,Linux,14.1 pulgadas,819.900
+https://www.exito.com/computador-portatil-hp-pavilion-amd-ryzen-7-5700u-16-gb-512-gb-ssd-15-eh1021la-3081371/p,HP,1 año,AMD Ryzen 7 5700U,16 GB,512 GB SSD,,,Windows 11,15.6 Pulgadas,3.899.000
+https://www.exito.com/computador-acer-n19c1-intel-core-i5-4-gb-256-gb-ssd-a315-56-54lk-3077370/p,ACER,1 año,Intel Core i5 1035G1,4 GB,256 GB SSD,,,Windows 11,15.6 Pulgadas,1.718.000
+https://www.exito.com/portatil-lenovo-ip-3-14iml05-intel-core-i3-14-pulgadas-4-gb-256-gb-ssd-ip-3-14iml05-3067357/p,LENOVO,1 año,CORE i3-10110U,4 GB,256 GB SSD,,,Windows 11 Home 64,14 Pulgadas,1.341.390
+https://www.exito.com/computador-portatil-asus-ryzen-7-5700u-16gbram-512gb-oled-156-pulgadas-fhd-oled-vivobook-m513ua-l1304-102480052-mp/p,ASUS,12 meses,,16 GB,512 GB,,,DOS,15.6 Pulgadas,3.450.000
+https://www.exito.com/computador-portatil-hp-amd-ryzen-3-5300u-8-gb-512-gb-ssd-14-fq1004la-3111528/p,HP,1 año,AMD Ryzen 3 5300U,8 GB,512 GB SSD,,,Windows,14 Pulgadas,1.784.490
+https://www.exito.com/computador-portatil-lenovo-ip-5-15alc05-amd-ryzen-5-16-gb-512-gb-ssd-ip-3-14itl05-3078264/p,LENOVO,1 año,AMD Ryzen 5 5500U,16 GB,512 GB SSD,,,Windows 11,15.6 Pulgadas,3.119.220
+https://www.exito.com/computador-portatil-acer-nitro-an515-57-ci5-11400h-156-pulgadas-fhd-ram-8gb-512ssd-windows-10-home-color-negro-102373084-mp/p,ACER,12 meses,Intel Core i5,8 GB,512 GB,GTX1650,4 GB,Windows 10,15.6 Pulgadas,3.777.600
+https://www.exito.com/computador-portatil-hp-pavilion-amd-ryzen-3-5300u-8-gb-256-gb-ssd-15-eh1500la-3091382/p,HP,1 año,AMD Ryzen 3-5300U,8 GB,256 GB SSD,,,Windows 11,15.6 Pulgadas,1.889.460
+https://www.exito.com/computador-portatil-hp-14-pulgadas-ci3-4gb-512gb-ssd-14-cf2060la-100883/p,HP,12 meses,Intel Core i3,4 GB,512 GB SSD,,,Windows,14 Pulgadas,1.449.000
+https://www.exito.com/computador-portatil-gamer-acer-156-intel-core-i5-10300h-ram-20gb-disco-256-ssd-1-tb-hdd-102182795-mp/p,ACER,12 meses,,20 GB,Híbrido,,,Windows,15.6 Pulgadas,3.809.000
+https://www.exito.com/computador-portatil-hp-14-dq0517la-celeron-ram-4gb-ssd-256gb-14-102430088-mp/p,HP,12 meses,,4 GB,256 GB,,,FreeDos,14.1 pulgadas,869.500
+https://www.exito.com/computador-portatil-asus-vivobook-pro-ryzen-7-4800h-16-gb-512-ssd-102432395-mp/p,ASUS,12 meses,AMD Ryzen 7 4800H,16 GB,512 GB,,,Windows 10,15.6 Pulgadas,3.049.000
+https://www.exito.com/computador-portatil-asus-intel-corei5-11va-12gb-ram-256gb-ssd-14-pulgadas-fhd-x415e-102311618-mp/p,ASUS,12 meses,i5 1135g7,12 GB,256 GB,Tarjeta gráfica Intel,,Windows,14 Pulgadas,2.280.000
+https://www.exito.com/computador-portatil-hp-pavilion-intel-core-i5-4-nucleos-12-gb-ram-1-tb-ssd-3122872/p,SSD HP,1 año,Intel Core i5-1135G7,12 GB,1 TB SSD,Intel Iris X,,Windows,15.6 Pulgadas,3.299.340
+https://www.exito.com/computador-portatil-dell-corei5-1135g7-16gb-ram-1tb-hdd-14-pulgadas-vostro-3400-102558839-mp/p,DELL,12 meses,,16 GB,Mecánico 1 TB,,,Ubuntu,14 Pulgadas,1.857.900
+https://www.exito.com/computador-portatil-corporativo-i5-1135g7-ram-16gbram-256gb-ssd-fhd-win11pro-p1412ce-102482618-mp/p,ASUS,12 meses,,16 GB,256 GB,,,Windows,14 Pulgadas,2.649.900
+https://www.exito.com/computador-portatil-hp-envy-amd-ryzen-5-5600u-8-gb-512-gb-ssd-13-ay1021la-3091379/p,HP,1 año,AMD Ryzen 5-5600U,8 GB,512 GB SSD,,,Windows 11,13.3 Pulgadas,4.399.000
+https://www.exito.com/computador-portatil-lenovo-pentium-58256/p,LENOVO,1 año,Pentium 6405U,8 GB,512 GB SSD,,,Windows 10,14 Pulgadas,1.439.130
+https://www.exito.com/computador-portatil-acer-aspire-5-amd-ryzen-3-5300u-4-gb-256-gb-ssd-a515-45-r6hw-3092410/p,ACER,1 año,AMD Ryzen3 5300U,4 GB,256 GB SSD,,,Windows 10,15.6 Pulgadas,1.463.390
+https://www.exito.com/computador-huawei-matebook-intel-core-i5-10210u-156-pulgadas-8-gb-512-gb-ssd-matebook-d15-i5-3068718/p,HUAWEI,12 meses,Intel Core i5,8 GB,512 GB SSD,,,Windows,15.6 Pulgadas,2.979.000
+https://www.exito.com/computador-acer-intel-core-i5-1035g1-156-pulgadas-4-gb-1-tb-hdd-a315-56-55rs-3053972/p,ACER,12 meses,Intel Core i5 1035G1,4 GB,1 TB HDD,,,Windows 10,15.6 Pulgadas,1.989.000
+https://www.exito.com/computador-lenovo-intel-celeron-n4020-4-gb-256-gb-ssd-windos-11-102584459-mp/p,LENOVO,12 meses,CELERON,4 GB,256 GB,,,Windows,14.1 pulgadas,949.999
+https://www.exito.com/computador-portatil-asus-intel-core-i3-1115g4-8gbram-256gb-ssd-14-pulgadas-fhd-102480044-mp/p,ASUS,12 meses,,8 GB,256 GB,,,Endless,14 Pulgadas,1.559.900
+https://www.exito.com/computador-portatil-hp-pavilion-amd-ryzen-5-5600u-8-gb-512-gb-ssd-13-be0500la-3078589/p,HP,1 año,AMD Ryzen 5 5600U,8 GB,512 GB SSD,,,Windows 10,13.3 Pulgadas,3.099.380
+https://www.exito.com/portatil-ci3-4gb-128gb-ssd-asus-x413ea-eb659t-3011213/p,ASUS,12 meses,Intel Core i3-1115G4,4 GB,128 GB SSD,,,Windows 10,14 Pulgadas,1.349.800
+https://www.exito.com/computador-portatil-gamer-acer-156-intel-core-i5-10300h-ram-8gb-disco-256-ssd-1-tb-hdd-102178156-mp/p,ACER NITRO,12 meses,,8 GB,Híbrido,,,Windows,15 Pulgadas,3.529.999
+https://www.exito.com/computador-portatil-hp-pavilion-intel-core-i5-1235u-8-gb-512-gb-ssd-14-dv2006la-3091381/p,HP,1 año,Intel Core i5-1235U,8 GB,512 GB SSD,,,Windows 11,14 Pulgadas,3.518.310
+https://www.exito.com/computador-portatil-acer-nitro-intel-i5-11400h-16-gb-512-ssd-gtx-1650-102359076-mp/p,ACER,12 meses,11400H intel I5,16 GB,512 GB,GTX1650,4 GB,Windows,15.6 Pulgadas,3.498.899
+https://www.exito.com/portatil-asus-amd-ryzen-7-5700u-156-pulgadas-16-gb-512-gb-ssd-90nb0tp1-m000t0-3050409/p,ASUS,12 meses,AMD Ryzen 7 5700U,16 GB,512 GB SSD,,,Windows 11 Home,15.6 Pulgadas,3.840.000
+https://www.exito.com/computador-portatil-asus-intel-core-i3-1115g4-12gbram-256gb-ssd-14-pulgadas-fhd-x415ea-102480045-mp/p,ASUS,12 meses,,12 GB,256 GB,,,Endless,14 Pulgadas,1.625.000
+https://www.exito.com/computador-portatil-dell-corei5-1135g7-12gb-1tb-hdd-14-pulgadas-vostro-3400-102558826-mp/p,DELL,12 meses,,12 GB,Mecánico 1 TB,,,Ubuntu,14 Pulgadas,1.799.900
+https://www.exito.com/portatil-asus-amd-ryzen-7-4700u-156-pulgadas-16-gb-512-gb-ssd-90nb0rr2-m000h0-3050406/p,ASUS,12 meses,AMD Ryzen 7 4700U,16 GB,512 GB SSD,,,Windows 10 Home,15.6 Pulgadas,3.049.900
+https://www.exito.com/computador-acer-a315-58-57pz-core-i5-1135g7-ddr4-8gb-ssd-512gb-156-pulgadas-fhd-tv-iris-xe-windows-11-home-102567079-mp/p,ACER,12 meses,,8 GB,512 GB,,,Windows,15 Pulgadas,2.318.900
+https://www.exito.com/computador-portatil-lenovo-intel-i3-1115g4-8gb-ram-512gb-ssd-14-pulgadas-fhd-ideapad-3-102559571-mp/p,LENOVO,12 meses,,8 GB,512 GB,,,DOS,14 Pulgadas,1.559.900
+https://www.exito.com/computador-portatil-lenovo-intel-i3-1115g4-20gb-ram-512gb-ssd-14-pulgadas-fhd-ideapad3-102559562-mp/p,LENOVO,12 meses,,20 GB,512 GB,,,DOS,14 Pulgadas,1.684.900
+https://www.exito.com/computador-acer-aspire-5-intel-core-i5-1235u-8-gb-512-gb-ssd-a514-55-52ly-3103210/p,ACER,12 meses,Intel Core i5 1235U,8 GB,512 GB SSD,,,Windows 11,14 Pulgadas,2.981.290
+https://www.exito.com/portatil-athlon-gold-8gb-256gb-lenovo-ip314ada05-809223/p,LENOVO,12 meses,ATHLON 3150U 2,8 GB,256 GB SSD,,,Windows,14 Pulgadas,1.349.999
+https://www.exito.com/computador-portatil-gaming-acer-156-pulgadas-pulgadas-an515-55-54y1-intel-core-i5-8gb-ram-disco-solido-512gb-ne-101994218-mp/p,ACER NITRO,12 meses,Intel Core i5 10300H,8 GB,512 GB,4 GB,4 GB,Windows 10,15.6 Pulgadas,3.398.999
+https://www.exito.com/computador-portatil-gamer-acer-156-intel-core-i5-10300h-ram-16gb-disco-256-ssd-1-tb-hdd-102182794-mp/p,ACER,12 meses,,16 GB,Híbrido,,,Windows 10,15.6 Pulgadas,3.797.999
+https://www.exito.com/computador-acer-n18q13-intel-core-i5-156-pulgadas-8-gb-256-gb-ssd-a315-57g-59kn-funda-gris-3068607/p,ACER,1 año,Intel Core i5 1035G1,8 GB,256 GB SSD,2 GB,2 GB,Windows 10,15.6 Pulgadas,2.399.000
+https://www.exito.com/computador-portatil-hp-156-pulgadas-pulgadas-15-dw1066la-intel-core-i5-8-gb-ram-disco-estado-solido-512-gb-plateado-101994221-mp/p,HP,12 meses,Intel Core i5-10210U,8 GB,512 GB,,,Windows 10,15.6 Pulgadas,2.399.000
+https://www.exito.com/computador-dell-inspiron-15-3515-amd-ryzen-7-3700u-ram-16gb-ssd512gb-fhd-156-pulgadas-102482638-mp/p,DELL,12 meses,RYZEN 7 3700U,16 GB,512 GB,,,Windows,15 Pulgadas,2.795.900
+https://www.exito.com/computador-portatil-hp-intel-core-i5-1135g7-14-pulgadas-8-gb-512-gb-ssd-14-dv0502la-3064567/p,HP,12 meses,Intel Core i5-1135G7,8 GB,512 GB SSD,,,Windows 10 Home 64,14 Pulgadas,2.899.899
+https://www.exito.com/portatil-hp-intel-core-i3-10110u-14-pulgadas-8-gb-256-gb-ssd-14-cf2518la-3054542/p,HP,1 año,Intel Core i3-10110U,8 GB,256 GB SSD,,,Windows 10,14 Pulgadas,1.780.623
+https://www.exito.com/computador-acer-vero-intel-core-i5-1235u-8-gb-512-gb-ssd-av14-51-54b9-3103217/p,ACER,12 meses,Intel Core i5 1235U,8 GB,512 GB SSD,,,Windows 11,14 Pulgadas,2.966.310
+https://www.exito.com/computador-portatil-asus-vivobook-x415ja-i3-1005g1-8gb-ram256gb-ssd-14-pulgadas-102436561-mp/p,ASUS,12 meses,,8 GB,256 GB,,,DOS,14 Pulgadas,1.499.900
+https://www.exito.com/computador-portatil-janus-i3-10110u-ram-8gb-ssd-512gb-lcd-14-102088339-mp/p,JANUS,12 meses,INTEL,8 GB,512 GB,,,Windows,14 Pulgadas,1.486.000
+https://www.exito.com/computador-portatil-asus-intel-core-i3-1115g4-20gbram-256gb-ssd-14-pulgadas-fhd-x415ea-102480036-mp/p,ASUS,12 meses,,20 GB,256 GB,,,Endless,14 Pulgadas,1.659.900
+https://www.exito.com/computador-portatil-hp-15-ryzen-5-5500u-12gb-ram-256gb-ssd-156-pulgadas-15-ef2523la-102735515-mp/p,HP,12 meses,,12 GB,256 GB,,,DOS,15.6 Pulgadas,1.839.990
+https://www.exito.com/computador-portatil-hp-156-pulgadas-pulgadas-ef2511la-amd-ryzen-5-ram-8gb-disco-ssd-256-gb-azul-102166852-mp/p,HP,12 meses,,8 GB,256 GB,,,Windows 10,15 Pulgadas,2.717.900
+https://www.exito.com/computador-portatil-asus-ryzen-3-256gb-ssd-8gb-ram-156-pulgadas-fhd-m515da-102735519-mp/p,ASUS,12 meses,,8 GB,256 GB,,,FreeDos,14 Pulgadas,1.459.990
+https://www.exito.com/computador-portatil-core-i5-1135g7-256gb-ssd-12gb-ram-14-pulgadas-14-dq2520la-102735503-mp/p,HP,12 meses,,12 GB,256 GB,,,DOS,14 Pulgadas,1.849.990
+https://www.exito.com/computador-acer-aspire-3-a315-24p-r1g8-amd-ryzen-3-8-gb-256-gb-ssd-a315-24p-r1g8-3115767/p,SSD ACER,12 meses,Amd Ryzen R3 7320U,8 GB,256 GB SSD,,,Windows 11,15.6 Pulgadas,1.949.350
+https://www.exito.com/portatil-ci5-4gb-256gb-ssd-lenovo-81wd00xjlm-3006651/p,LENOVO,12 meses,CORE_I5-1035G4_1,4 GB,256 GB SSD,,,Windows,14 Pulgadas,1.817.900
+https://www.exito.com/portatil-r3-4gb-256gb-ssd-hp-15-gw0017l-50996/p,HP,12 meses,AMD Ryzen 3,4 GB,256 GB SSD,Radeon 520,,Windows,15.6 Pulgadas,1.599.900
+https://www.exito.com/computador-acer-n19c1-intel-core-i3-8-gb-256-gb-ssd-a315-56-31kc-3077372/p,ACER,1 año,Intel Core i3 1005G1,8 GB,256 GB SSD,,,Windows 11,15.6 Pulgadas,1.459.000
+https://www.exito.com/portatil-ci5-4g-256gb-ssd-lenovo-ip-3-14iml05-3039682/p,LENOVO,1 año,Core I5-10210U 1,4 GB,256 GB SSD,,,Windows 10,14 Pulgadas,1.828.900
+https://www.exito.com/computador-lenovo-intel-core-i5-1235u-8-gb-256-gb-ssd-ideapad-1-3114617/p,SSD LENOVO,1 año,Intel Core i5-1235U,8 GB,256 GB SSD,Intel Iris X,,Windows 11 Home Single Language,14 Pulgadas,2.935.500
+https://www.exito.com/computador-portatil-gamer-acer-156-pulgadas-pulgadas-52b9-intel-core-i5-ram-8gb-disco-hdd-1tb-negro-102215888-mp/p,ACER,12 meses,10300H,8 GB,1000 GB,GTX1650,4 GB,Windows,15.6 Pulgadas,3.495.000
+https://www.exito.com/computador-portatil-gamer-omen-hp-161-pulgadas-amd-ryzen-7-5800h-ram-8gb-ssd-512gb-102174218-mp/p,HP,12 meses,,8 GB,512 GB,,,Windows,16 Pulgadas,5.399.900
+https://www.exito.com/portatil-dell-core-i5-1135g7-ram-20gb-hdd-1tb-ssd-1tb-m2-11va-generacion-freedos-101329332-mp/p,DELL,12 meses,Intel Core i5 1135G7 - 11va Generaci,16 GB,Híbrido,,,FreeDos,14 Pulgadas,2.749.000
+https://www.exito.com/computador-portatil-acer-nitro-core-i5-11400h-8gb-1-tb-ssd-gtx-1650-102359079-mp/p,ACER,12 meses,Intel Core i5 11400H,8 GB,Híbrido,GTX1650,4 GB,Windows,15.6 Pulgadas,3.599.000
+https://www.exito.com/computador-portatil-gigabyte-a7-173-pulgadas-144-hz-5800h-rtx-3060-16-gb-512-ssd-102439693-mp/p,GIGABYTE,3 meses,AMD Ryzen 7 5800H,16 GB,512 GB,RTX 3060 Laptop GPU,6 GB,Windows 11,17.1 pulgadas,6.499.000
+https://www.exito.com/computador-portatil-hp-pavilion-intel-core-i5-1240p-8-gb-512-gb-ssd-14-eh0106la-3091397/p,HP,1 año,Intel Core i5-1240P,8 GB,512 GB SSD,,,Windows 11,14 Pulgadas,4.199.300
+https://www.exito.com/computador-dell-inspiron-3501-intel-core-i3-12gb-ram-256gb-ssd-102027569-mp/p,DELL,12 meses,i3-115G4,12 GB,256 GB,,,Windows,15 Pulgadas,1.639.800
+https://www.exito.com/computador-asus-zenbook-14-amd-ryzen-5-5500u-8-gb-512-gb-um425uaz-102689102-mp/p,ASUS,12 meses,,8 GB,512 GB,,,Windows,14.1 pulgadas,2.750.000
+https://www.exito.com/portatil-asus-x415ea-ek1182-intel-core-i3-1115g4-256ssd-4gb-ram-endless-102125541-mp/p,ASUS,12 meses,CORE I3-115G4,4 GB,256 GB,,,Endless,14.1 pulgadas,1.409.000
+https://www.exito.com/computador-portatil-acer-nitro-intel-i5-11400h-24-gb-ram-512-ssd-gtx-1650-102359082-mp/p,ACER,12 meses,Intel i5 11400H,24 GB,512 GB,,4 GB,Windows,15.6 Pulgadas,3.598.995
+https://www.exito.com/computador-portatil-hp-14-cf2509la-celeron-ram-4gb-ssd-256gb-14-102057639-mp/p,HP,12 meses,Intel Celeron N4020,4 GB,256 GB,,,FreeDos,14.1 pulgadas,1.090.000
+https://www.exito.com/portatil-dell-inspirion-3501-intel-core-i3-1115g4-4gb-1tb-156-101852366-mp/p,DELL,12 meses,,4 GB,Mecánico 500 GB,,,Ubuntu,15 Pulgadas,1.642.800
+https://www.exito.com/portatil-r5-4gb-256gb-ssd-hp-15-ef1017la-3023299/p,HP,,R5-4500U,4 GB,256 GB SSD,,,Windows,15.6 Pulgadas,2.026.098
+https://www.exito.com/computador-portatil-acer-14-pulgadas-pulgadas-amd-ryzen5-ram-8gb-disco-ssd-256gb-102194919-mp/p,ACER,12 meses,,8 GB,256 GB,,,Linux,14.1 pulgadas,1.849.999
+https://www.exito.com/computador-portatil-hp-intel-core-i5-10210u-14-pulgadas-8-gb-256-gb-ssd-14-cf2522la-102223630-mp/p,HP,12 meses,,4 GB,256 GB,,,FreeDos,14.1 pulgadas,1.719.900
+https://www.exito.com/portatil-ci3-4gb-128gb-ssd-asus-x413ja-bv2-3002388/p,ASUS,12 meses,INTEL CORE I3-1005G1,4 GB,128 GB SSD,,,Windows 10 Home,14 Pulgadas,1.639.900
+https://www.exito.com/computador-portatil-acer-nitro-an515-55-ci5-10300h-156-pulgadas-fhd-ram-8gb-512ssd-m2-linux-color-negro-102373091-mp/p,ACER,12 meses,,8 GB,512 GB,4 GB,4 GB,Linux,15.6 Pulgadas,3.119.000
+https://www.exito.com/computador-dell-core-i3-1115g4-8gb-ssd256-gb-156-pulgadas-inspiron-15-3501-102589564-mp/p,DELL,12 meses,,8 GB,256 GB,,,Ubuntu,15.6 Pulgadas,1.499.900
+https://www.exito.com/computador-lenovo-amd-ryzen-7-3700u-8-gb-512-gb-ssd-156-ideapad-15ada7-102674832-mp/p,LENOVO,12 meses,,8 GB,512 GB,,,Windows,15.6 Pulgadas,2.400.000
+https://www.exito.com/portatil-asus-ux482ea-ka143t-3016623/p,ASUS,12 meses,Intel Core i7-1165G7,8 GB,512 GB SSD,,,Windows 10,14 Pulgadas,6.499.000
+https://www.exito.com/computador-portatil-hp-amd-athlon-3020e-14-pulgadas-ram-8gb-256gb-ssd-245-g8-102015027-mp/p,HP,12 meses,,8 GB,256 GB,,,Linux,14.1 pulgadas,1.249.000
+https://www.exito.com/computador-portatil-janus-i5-8259u-8gb-ssd-512gb-lcd-14-102079278-mp/p,JANUS,12 meses,INTEL,8 GB,512 GB,,,Windows,14 Pulgadas,1.739.000
+https://www.exito.com/portatil-asus-m515da-amd-ryzen-5-3500u-ssd-256-hdd-1tb-ram-12gb-102140520-mp/p,ASUS,12 meses,RYZEN 5 3500U,12 GB,Híbrido,,,Windows,15.6 Pulgadas,2.329.000
+https://www.exito.com/computador-dell-core-i3-1115g4-12gb-ssd256-gb-156-pulgadas-inspiron-15-3511-102589563-mp/p,DELL,12 meses,,12 GB,256 GB,,,Ubuntu,15.6 Pulgadas,1.569.900
+https://www.exito.com/computador-portatil-hp-15-ef2507la-ryzen-5-5500u-8gb-512gb-ssd-15-hd-win-11-102149929-mp/p,HP,12 meses,Procesador AMD Ryzen 5 5500U,8 GB,512 GB,,,Windows,15 Pulgadas,2.189.900
+https://www.exito.com/computador-portatil-acer-156-pulgadas-pulgadas-a515-54-intel-core-i5-4gb-ram-disco-duro-1tb-negro-101994213-mp/p,ACER ASPIRE,12 meses,Intel Core i5 10210U,4 GB,Mecánico 1 TB,,,Windows 10,15.6 Pulgadas,1.795.000
+https://www.exito.com/computador-asus-zenbook-14-amd-ryzen-5-5500u-8-gb-512-gb-um425-windos-11-8-nucleos-102693445-mp/p,ASUS,12 meses,,8 GB,512 GB,,,Windows,14.1 pulgadas,2.750.000
+https://www.exito.com/computador-portatil-lenovo-intel-i3-1115g4-512gb-ssd-4gb-ram-14-pulgadas-fhd-ideapad3-102559564-mp/p,LENOVO,12 meses,,4 GB,512 GB,,,DOS,14 Pulgadas,1.499.900
+https://www.exito.com/computador-dell-core-i3-1115g4-4gb-ssd256-gb-156-pulgadas-inspiron-15-3511-102589578-mp/p,DELL,12 meses,,4 GB,256 GB,,,Ubuntu,15.6 Pulgadas,1.399.900
+https://www.exito.com/computador-portatil-gamer-lenovo-ideapad-gaming3-15ach6-ryzen-7-5800h-ssd-512gb-ram-16gb-gpu-rtx-3060-6gb-15-windows-11-102754806-mp/p,LENOVO,12 meses,RYZEN 7 5800H,16 GB,512 GB,RTX 3060,6 GB,Windows,15 Pulgadas,6.688.250
+https://www.exito.com/computador-portatil-core-i5-1135g7-256gb-ssd-16gb-ram-14-pulgadas-14-dq2520la-102735516-mp/p,HP,12 meses,,16 GB,256 GB,,,DOS,14 Pulgadas,1.737.990
+https://www.exito.com/computador-portatil-acer-ryzen-5-7520u-512gb-ssd-8gb-ram-156-pulgadas-fhd-a315-56-35z6-102735496-mp/p,ACER ASPIRE,12 meses,,8 GB,512 GB,,,Sin Sistema Operativo,15.6 Pulgadas,2.259.990
+https://www.exito.com/computador-portatil-hp-amd-ryzen-7-5700u-16-gb-512-gb-ssd-15-ef2500la-3071596/p,HP,12 meses,AMD Ryzen 7 5700U,16 GB,512 GB SSD,,,Windows 11 Home,15.6 Pulgadas,3.289.000
+https://www.exito.com/computador-portatil-janus-i5-8259u-ssd-1tb-lcd-14-pulgadas-102441426-mp/p,JANUS,12 meses,INTEL,8 GB,Disco sólido 1TB,,,Windows 10,14.1 pulgadas,1.723.000
+https://www.exito.com/computador-portatil-acer-156-pulgadas-a515-54-i3-8dhi-101837775-mp/p,ACER,12 meses,,8 GB,Híbrido,,,Windows,15.6 Pulgadas,2.347.900
+https://www.exito.com/computador-portatil-hp-15-ryzen-5-5500u-8gb-ram-256gb-ssd-156-pulgadas-15-ef2523la-102735499-mp/p,HP,12 meses,,8 GB,256 GB,,,DOS,15.6 Pulgadas,1.749.990
+https://www.exito.com/computador-portatil-dell-core-i5-11320h-256gb-ssd-24gb-ram-14-pulgadas-fhd-vostro-5410-102735501-mp/p,DELL,12 meses,,24 GB,256 GB,,,Linux,14 Pulgadas,2.999.990
+https://www.exito.com/computador-portatil-hp-15-ryzen-5-5500u-8gb-ram-256gb-ssd-156-pulgadas-15-ef2523la-102735512-mp/p,HP,12 meses,AMD Ryzen 5 5500U,12 GB,256 GB,,,DOS,15.6 Pulgadas,1.899.990
+https://www.exito.com/computador-portatil-janus-intel-core-i5-1035g1-ram-8gb-512gb-ssd-14-pulgadas-101487408-mp/p,JANUS,12 meses,INTEL,8 GB,512 GB,,,Windows 10,14 Pulgadas,2.114.000
+https://www.exito.com/computador-portatil-janus-i3-10110u-ssd-1tb-lcd-14-pulgadas-102441423-mp/p,JANUS,12 meses,INTEL,8 GB,Disco sólido 1TB,,,Windows 10,14.1 pulgadas,1.430.000
+https://www.exito.com/computador-portatil-janus-i5-1035g1-ssd-1tb-lcd-14-pulgadas-102441420-mp/p,JANUS,12 meses,INTEL,8 GB,Disco sólido 1TB,,,Windows 10,14.1 pulgadas,2.686.000
+https://www.exito.com/computador-portatil-hp-15-ryzen-5-5500u-24gb-ram-256gb-ssd-156-pulgadas-15-ef2523la-102735514-mp/p,HP,12 meses,,24 GB,256 GB,,,DOS,15.6 Pulgadas,2.029.990
+https://www.exito.com/computador-portatil-acer-a314-22-r38256-102043533-mp/p,ACER,12 meses,Core i3,4 GB,Mecánico 256 GB,,,Windows 10,6 pulgadas,2.230.900
+https://www.exito.com/computador-portatil-core-i5-1135g7-256gb-ssd-20gb-ram-14-pulgadas-14-dq2520la-102735509-mp/p,HP,12 meses,,20 GB,256 GB,,,FreeDos,14 Pulgadas,1.959.990
+https://www.exito.com/computador-portatil-dell-core-i5-11320h-256gb-ssd-8gb-ram-14-pulgadas-fhd-vostro-5410-102735518-mp/p,DELL,12 meses,,8 GB,256 GB,,,Linux,14 Pulgadas,2.599.990
+https://www.exito.com/computador-portatil-dell-core-i5-11320h-256gb-ssd-16gb-ram-14-pulgadas-fhd-vostro-5410-102735517-mp/p,DELL,12 meses,,16 GB,256 GB,,,Linux,14 Pulgadas,2.699.900
+https://www.exito.com/computador-lenovo-intel-core-i5-1235u-8-gb-512-gb-ssd-ideapad-1-3114619/p,SSD LENOVO,1 año,Intel Core i5-1235U,8 GB,512 GB SSD,Intel Iris X,,Windows 11 Home Single Language,14 Pulgadas,3.027.100
+https://www.exito.com/computador-acer-aspire-5-a314-36p-39an-intel-core-i3-8-nucleos-8-gb-ram-512-gb-ssd-3125210/p,SSD ACER,12 meses,Intel Core i3 N305,8 GB,512 GB SSD,,,Windows 11,14 Pulgadas,3.299.000
+https://www.exito.com/computador-acer-aspire-5-a514-54-534j-intel-core-i5-4-nucleos-8-gb-ram-512-gb-ssd-3125209/p,SSD ACER,12 meses,Intel Core i5 1135G7,8 GB,512 GB SSD,,,Windows 11,15.6 Pulgadas,4.599.000
+https://www.exito.com/computador-asus-intel-core-i5-4-nucleos-8-gb-ram-512-gb-ssd-3122526/p,SSD ASUS,1 año,Intel Core i5-1035G1,8 GB,512 GB SSD,,,Windows 11 Home,15.6 Pulgadas,3.899.000
+https://www.exito.com/computador-portatil-lenovo-256gb-4gb-intel-i5-azul-102735758-mp/p,LENOVO,12 meses,,4 GB,256 GB,,,Windows,14 Pulgadas,1.828.000
+https://www.exito.com/computador-portatil-core-i5-1135g7-256gb-ssd-8gb-ram-14-pulgadas-14-dq2520la-102735510-mp/p,HP,12 meses,,8 GB,256 GB,,,DOS,14 Pulgadas,1.819.990
+https://www.exito.com/computador-portatil-dell-core-i5-11320h-256gb-ssd-12gb-ram-14-pulgadas-fhd-vostro-5410-102735505-mp/p,DELL,12 meses,,12 GB,256 GB,,,Linux,14 Pulgadas,2.670.990
+https://www.exito.com/computador-portatil-core-i5-1135g7-256gb-ssd-4gb-ram-14-pulgadas-14-dq2520la-102735502-mp/p,HP,12 meses,,4 GB,256 GB,,,Endless,14 Pulgadas,1.749.990
+https://www.exito.com/portatil-janus-i5-1035g1-memoria-ram-8gb-disco-256gb-pantalla-14-101303105-mp/p,JANUS,12 meses,Core i5-1035G1,8 GB,256 GB,,,Windows 10,14 Pulgadas,2.068.000
+https://www.exito.com/portatil-dell-vostro-3400-core-i5-1135g7-20gb4gb16gb-1tb-500gb-14-102402322-mp/p,DELL,12 meses,,20 GB,Híbrido,,,Linux,14 Pulgadas,2.178.999
+https://www.exito.com/portatil-hp-amd-ryzen-5-5500u-ram-16gb-512gb-ssd-windows-11-15ef2506la-102342740-mp/p,HP,12 meses,,16 GB,512 GB,,,Windows,15.6 Pulgadas,2.300.000
+https://www.exito.com/portatil-hp-245-g8-amd-ryzen-5-5500u-8gb-256ssd-14-pulgadas-win-10-prueba-102191611-mp/p,HP,12 meses,Amd Ryzen 5 5500u,8 GB,256 GB,,,windows 10 profesional no licenciado de prueba,14 Pulgadas,1.449.888
+https://www.exito.com/portatil-asus-m515da-amd-ryzen-5-3500u-ssd-512-hdd-1tb-ram-16gb-102140514-mp/p,ASUS,12 meses,,16 GB,Híbrido,,,Endless,15.6 Pulgadas,1.959.900
+https://www.exito.com/portatil-hp-14-dq0517la-intel-celeron-n4120-ram-8gb-ssd-256gb-win-10-preinstalado-102550064-mp/p,HP,12 meses,intel celeron n4120,8 GB,256 GB,,,Windows 10,14 Pulgadas,998.900
+https://www.exito.com/portatil-asus-x415ja-bv2029-intel-core-i3-1005g1-ram-12-gb-ssd-256-pantalla-14-pulgadas-102410359-mp/p,ASUS,12 meses,,12 GB,256 GB,,,Endless,14 Pulgadas,1.479.000
+https://www.exito.com/portatil-hp-amd-ryzen-5-5500u-ram-20gb-4gb16gb-ssd-256gb-102403361-mp/p,HP,12 meses,,20 GB,256 GB,,,FreeDos,14 Pulgadas,1.689.900
+https://www.exito.com/portatil-asus-pro-amd-ryzen-5-5600h-8gb-512ssd-15-oled-m3500-102251233-mp/p,ASUS,12 meses,,8 GB,512 GB,,,FreeDos,15.6 Pulgadas,2.469.000
+https://www.exito.com/portatil-lenovo-114igl05-celeron-n4020-4gb-128gbssd-win10-101350097-mp/p,LENOVO,12 meses,,4 GB,128 GB,,,Windows 10,14 Pulgadas,849.199
+https://www.exito.com/portatil-dell-inspiron-amd-ryzen-5-3450u-ssd-512-hdd-1tb-ram-20gb-102104184-mp/p,DELL,12 meses,RYZEN 5 3450U,20 GB,Híbrido,,,Windows 10,15.6 Pulgadas,2.192.590
+https://www.exito.com/macbook-air-chip-m1-con-cpu-8c-ygpu-7c-256gb-oro-101059120-mp/p,APPLE,12 meses,M1,8 GB,256 GB,,,Mac Os,13.3 Pulgadas,4.529.000
+https://www.exito.com/macbook-air-chip-m1-cpu-8c-y-gpu-7c-256gb-133-gris-espacial-101313166-mp/p,APPLE,12 meses,M1,8 GB,256 GB,,,Mac Os,13.3 Pulgadas,4.697.499
+https://www.exito.com/portatil-hp-core-i5-10ma-20gb-ram-256-ssd-laptop-14-cf2522la-102360321-mp/p,HP,12 meses,,20 GB,256 GB,,,Windows,14 Pulgadas,1.824.900
+https://www.exito.com/portatil-asus-m3500qa-l1224-ryzen-7-5800h-16gb-512-ssd-endless-102127378-mp/p,ASUS,12 meses,AMD Ryzen 7-5800H,16 GB,512 GB,,,Windows,15.6 Pulgadas,4.218.000
+https://www.exito.com/portatil-dell-inspiron-3501-intel-core-i3-1115g4-4gb-1tb-156-pulgadas-102013546-mp/p,DELL,12 meses,,4 GB,Mecánico 500 GB,,,Linux,15.6 Pulgadas,1.259.800
+https://www.exito.com/portatil-hp-245-g8-amd-ryzen-3-5300u-12-gb-256-gb-14-pulgadas-102634650-mp/p,HP,12 meses,AMD Ryzen 3 5300U,16 GB,256 GB,,,windows de prueba,14 Pulgadas,1.399.900
+https://www.exito.com/macbook-air-de13pulgadas-ch-apple-mgn63laa-3018194/p,SSD APPLE,1 año,Apple Silicon M1,8 GB,256 GB SSD,,,Mac Os,13.3 Pulgadas,6.019.000
+https://www.exito.com/portatil-dell-vostro-3400-core-i5-1135g7-ram-4gb-hdd-1-tb-freedos-101329267-mp/p,DELL,12 meses,Intel Core i5 1135G7,4 GB,Mecánico 1 TB,,,FreeDos,14 Pulgadas,1.659.000
+https://www.exito.com/portatil-asus-tuf-fx506l-core-i5-10th-8gb-512gb-ssd-tv-gtx1650-de-4gb-102107233-mp/p,ASUS,12 meses,Intel Core i5-10300H,8 GB,512 GB,GTX1650,4 GB,FreeDos,15.6 Pulgadas,3.529.000
+https://www.exito.com/macbook-pro-13-apple-mneh3ea-apple-apple-m2-8-gb-256-gb-ssd-mneh3ea-3081338/p,SSD APPLE,1 año,Chip M2  de Apple,8 GB,256 GB SSD,,,Mac Os,13.3 Pulgadas,8.459.000
+https://www.exito.com/portatil-ideapad-3-14itl6-intel-core-i5-ram-8gb-unidad-ssd-256gb-pantalla-14-pulgadas-fhd-102174109-mp/p,LENOVO,12 meses,Intel Core i5-1135G7,8 GB,256 GB,,,Linux,14 Pulgadas,1.847.850
+https://www.exito.com/portatil-dell-vostro-14-3400-amd-ryzen5-8gb-256gb-ssd-ubuntu-101635139-mp/p,DELL,12 meses,AMD RYZEN 5 3450U,8 GB,256 GB,,,Ubuntu,14 Pulgadas,1.478.899
+https://www.exito.com/portatil-hp-14ck2101la-celeron-n4020-4gb-1tb-freedos-101372795-mp/p,HP,12 meses,,4 GB,Mecánico 500 GB,,,Sin Sistema Operativo,14.1 pulgadas,860.500
+https://www.exito.com/portatil-dell-ryzen-5-3450u-8gb-8gb-ssd-256gb-14-vostro-3405-102315533-mp/p,DELL,12 meses,,16 GB,256 GB,,,Ubuntu,14 Pulgadas,1.698.999
+https://www.exito.com/portatil-lenovo-ip-3-14itl6-4gbssd256gb-intel-core-i3-1115g4-14-pulgadas-101972884-mp/p,LENOVO,12 meses,,4 GB,256 GB,,,Windows,14 Pulgadas,1.764.000
+https://www.exito.com/macbook-air-chip-m1-con-cpu-8c-ygpu-7c-256gb-plata-101059131-mp/p,APPLE,12 meses,M1,8 GB,256 GB,,,Mac Os,13.3 Pulgadas,4.695.900
+https://www.exito.com/portatil-dell-vostro-3405-16gb-ram-256gb-ssd-1tb-hdd-14-pulgadas-hd-102096641-mp/p,DELL,12 meses,Ryzen 5 3450U,16 GB,Híbrido,,,Ubuntu,15.6 Pulgadas,1.922.840
+https://www.exito.com/portatil-hp-15-ef2503la-amd-ryzen-3-ram-4-gb-ssd-256-gb-102104322-mp/p,HP,12 meses,,4 GB,256 GB,,,Windows,15.6 Pulgadas,1.390.000
+https://www.exito.com/portatil-hp-245-g8-amd-ryzen-3-5300u-8-gb-256-gb-14-pulgadas-102634648-mp/p,HP,12 meses,,8 GB,256 GB,,,,14 Pulgadas,1.199.900
+https://www.exito.com/nuevo-macbook-pro-chip-m2-133-pulgadas-cpu-8c-y-gpu-10c-256gb-2022-gris-espacial-102191240-mp/p,APPLE,12 meses,,8 GB,256 GB,,,Mac Os X,13.3 Pulgadas,6.649.690
+https://www.exito.com/portatil-dell-vostro-corei5-1135g7-12gb-ram-256gb-ssd-1tb-hdd-14-pulgadas-102129963-mp/p,DELL,12 meses,,12 GB,Híbrido,,,Ubuntu,14 Pulgadas,2.049.900
+https://www.exito.com/portatil-dell-vostro-3400-intel-ci5-1135-8gb-ram-disco-ssd-256gb-pantalla-14-windows-102555408-mp/p,DELL,12 meses,,8 GB,Mecánico 500 GB,,,Windows,14.1 pulgadas,1.899.000
+https://www.exito.com/portatil-hp-245-g8-amd-ryzen3-3250u-ram8gb-256gb-ssd-14pulg-101970560-mp/p,HP,12 meses,amd Ryzen,8 GB,256 GB,,,Linux,14 Pulgadas,1.199.900
+https://www.exito.com/macbook-pro-13-apple-mly33ea-apple-apple-m2-8-gb-256-gb-ssd-mly33ea-3081330/p,SSD APPLE,1 año,Chip M2  de Apple,8 GB,256 GB SSD,,,Mac Os,13.6 Pulgadas,7.929.000
+https://www.exito.com/laptop-asus-vivobook-ryzen-7-5700u-16gb-512gb-oled-156-m513-102254806-mp/p,ASUS,12 meses,Ryzen 7 5700U,16 GB,512 GB,,,FreeDos,15.6 Pulgadas,3.450.000
+https://www.exito.com/portatil-asus-tuf-f15-core-i5-11300h-ram-16-gb-ssd-512-gb-rtx-3050-4gb-endless-102363937-mp/p,ASUS,12 meses,COREI5,16 GB,512 GB,RTX 3050,4 GB,Endless,15.6 Pulgadas,4.399.000
+https://www.exito.com/portatil-asus-tuf-fx506lh-hn002-corei5-16gb-ram-512gb-ssd-156-pulgadas-fhd-144hz-102101697-mp/p,ASUS,12 meses,Corei5 10300H,16 GB,512 GB,GTX1650,4 GB,Endless,15.6 Pulgadas,3.799.000
+https://www.exito.com/portatil-lenovo-ryzen-7-5700u-ram-8gb-ssd-512gb-v14-102407005-mp/p,LENOVO,12 meses,,8 GB,512 GB,,,FreeDos,14 Pulgadas,2.390.000
+https://www.exito.com/portatil-asus-m1402ia-ek094-ryzen-5-ram-8gb-512gb-14-full-hdmouse-102374502-mp/p,ASUS,12 meses,,8 GB,512 GB,,,FreeDos,14.1 pulgadas,2.188.788
+https://www.exito.com/portatil-hp-amd-ryzen-5-5500u-ram-12gb-4gb8gb-ssd-256gb-14-fq1052la-102402183-mp/p,HP,12 meses,,12 GB,256 GB,,,FreeDos,14.1 pulgadas,1.659.000
+https://www.exito.com/portatil-hp-240-g8-core-i5-11ava-gen-ram-16gb-ssd-256gb-hdd-1tb-windows-10-pro-102642792-mp/p,HP,12 meses,,16 GB,Híbrido,,,Windows 10,14 Pulgadas,2.499.900
+https://www.exito.com/portatil-hp-245-g7-amd-athlon-3020e-8gb-500gb-win10home-101478151-mp/p,HP,12 meses,Amd Athlon 3020e,8 GB,500 GB,,,Windows,14 Pulgadas,990.000
+https://www.exito.com/producto-mejorado-portatil-asus-e410ma-celeron-n4020-256gb-ssd4gb-ram14-pulgadas-hd-102084911-mp/p,ASUS,12 meses,Celeron,4 GB,256 GB,,,FreeDos,14 Pulgadas,1.439.900
+https://www.exito.com/computador-macbook-pro-apple-apple-apple-m2-16-gb-512-gb-ssd-mphe3ea-3112276/p,SSD APPLE,1 año,Chip M2 Pro de Apple,16 GB,512 GB SSD,,,Mac Os,14 Pulgadas,13.219.000
+https://www.exito.com/macbook-pro-13-apple-mlxx3ea-apple-apple-m2-8-gb-512-gb-ssd-mlxx3ea-3081332/p,SSD APPLE,1 año,Chip M2  de Apple,8 GB,512 GB SSD,,,Mac Os,13.6 Pulgadas,7.289.000
+https://www.exito.com/macbook-air-chip-m1-con-cpu-8c-ygpu-7c-256gb-gris-espacial-101059487-mp/p,APPLE,12 meses,M1,8 GB,256 GB,,,Mac Os,13.3 Pulgadas,4.693.390
+https://www.exito.com/portatil-hp-14-cf2514la-core-i3-10110u-4gb-256gb-ssd-win-10-102011020-mp/p,HP,12 meses,,4 GB,256 GB,,,Windows 10,14 Pulgadas,1.449.900
+https://www.exito.com/portatil-asus-x509uaej345-15-core-i3-4gb-256gb-ssd-endless-101316335-mp/p,ASUS,12 meses,Intel Core i3-7020U Processor 2,4 GB,256 GB,,,Endless,15.6 Pulgadas,1.358.900
+https://www.exito.com/portatil-lenovo-ideapad-gaming-3-15imh05-i5-10300h-8gb-512-ssd-gtx-1650ti-wndos-10-home-102553214-mp/p,LENOVO,12 meses,intel core i5,8 GB,512 GB,GTX1650,,Windows,15 Pulgadas,3.600.000
+https://www.exito.com/portatil-dell-inspiron-15-3515-ryzen-5-3450u-ram-8gb-ssd-256gb-ubuntu-156-fh-102018173-mp/p,DELL,12 meses,AMD Ryzen 5 3450U,8 GB,256 GB,,,Ubuntu,15.6 Pulgadas,1.648.859
+https://www.exito.com/portatil-dell-inspiron-15-3505-ryzen-5-3450u-ram-16gb-ssd-256gb-1tb-win-10-156-hd-102040998-mp/p,DELL,12 meses,ryzen 5,16 GB,256 GB,,,Windows,15 Pulgadas,2.195.000
+https://www.exito.com/portatil-asus-k513ea-bq1796-core-i5-1135g7-8gb-512gb-linux-102071039-mp/p,ASUS,12 meses,Intel Core i5-1135G7 a 2,8 GB,512 GB,,,Linux,15.6 Pulgadas,2.399.900
+https://www.exito.com/portatil-asus-14-core-i3-4gb-ram-256gb-ssd-win-11-home-negro-mouse-morral-102280920-mp/p,ASUS,12 meses,core i3,4 GB,256 GB,,,Windows 11 home,14.1 pulgadas,1.397.900
+https://www.exito.com/macbook-pro-13-apple-mlxw3ea-apple-apple-m2-8-gb-256-gb-ssd-mlxw3ea-3081336/p,SSD APPLE,1 año,Chip M2  de Apple,8 GB,256 GB SSD,,,Mac Os,13.6 Pulgadas,7.929.000
+https://www.exito.com/portatil-hp-255-g7-athlon-3020e-4g-ram-500gb-dd-windows-10-home-15-pulg-negro-100979985-mp/p,HP,12 meses,,4 GB,Mecánico 500 GB,,,Windows,15 Pulgadas,1.169.000
+https://www.exito.com/portatil-huawei-matebook-b3-intel-core-i5-ssd-512gb-8gb-windows-10-pro-102445376-mp/p,HUAWEI,12 meses,,8 GB,512 GB,,,Windows 10,14 Pulgadas,2.199.900
+https://www.exito.com/laptop-hp-14-cf2522la-intel-core-i5-4-gb-256-gb-ssd-14-hd-freedos-102388863-mp/p,HP,12 meses,Intel Core i5-10210U,4 GB,256 GB,,,FreeDos,14.1 pulgadas,1.679.000
+https://www.exito.com/portatil-asus-tuf-fa506qm-hn008-r7-5800h-16gb-512gb-rtx-3060-free-102439633-mp/p,ASUS,12 meses,AMD,16 GB,512 GB,RTX 3060,6 GB,FreeDos,15 Pulgadas,7.159.000
+https://www.exito.com/portatil-asus-m1402ia-ek094-ryzen-5-ram-16gb-512gb-14-fhd-102333973-mp/p,ASUS,12 meses,,16 GB,512 GB,,,Linux,14.1 pulgadas,2.197.885
+https://www.exito.com/portatil-hp-15da2033la-pentium-gold-6405u-4gb-128gbssd-win10-101350126-mp/p,HP,12 meses,,4 GB,128 GB,,,Windows 10,15.6 Pulgadas,996.900
+https://www.exito.com/portatil-lenovo-ideapad-amd-ryzen-5-5500u-4gb-16gb-ssd-512gb-14-pulgadas-102548538-mp/p,LENOVO,12 meses,,20 GB,512 GB,,,FreeDos,14 Pulgadas,2.290.000
+https://www.exito.com/portatil-asus-x415ea-intel-core-i5-1135g7-ram-12gb-ssd-512gb-endless-14-pulgadas-fhd-102389405-mp/p,ASUS,12 meses,,12 GB,512 GB,,,Endless,14.1 pulgadas,2.299.900
+https://www.exito.com/portatil-acer-156-pulgadas-intel-ci3-ram-12gb-1tb-ssd-black-102523299-mp/p,ACER,12 meses,i3,12 GB,Disco sólido 1TB,,,LINUX,15.6 Pulgadas,1.824.999
+https://www.exito.com/portatil-hp-245-g8-amd-ryzen-3-5300u-12-gb-256-ssd-14-pulgadas-102634646-mp/p,HP,12 meses,,12 GB,256 GB,,,,14 Pulgadas,1.359.900
+https://www.exito.com/macbook-pro-16-chip-m1-pro-ap-apple-mk183ea-3046719/p,SSD APPLE,1 año,Chip M1 Pro de Apple,16 GB,512 GB SSD,,,Mac Os,16 Pulgadas,11.849.900
+https://www.exito.com/portatil-hp-notebook-240-g8-core-i3-1005g1-8gb-1tb-linux-102018227-mp/p,HP,12 meses,Core i3,8 GB,Mecánico 1 TB,,,Linux,14.1 pulgadas,1.459.900
+https://www.exito.com/macbook-pro16-m1-max-32gb-1tb-gris-espacial-espanol-102215754-mp/p,APPLE,12 meses,,32 GB,Disco sólido 1TB,,,Mac Os,16 Pulgadas,17.239.000
+https://www.exito.com/portatil-asus-m409dabv497-ryzen-5-dd-1-tb-ram-4-gb-endless-14-100817694-mp/p,ASUS,12 meses,INTEL CORE I3 7020U,4 GB,Mecánico 1 TB,,,Linux,15.6 Pulgadas,1.449.900
+https://www.exito.com/portatil-asus-k513ea-bq2213-core-i7-8-gb-ssd-512gb-156-pulgadas-fhd-endless-102110936-mp/p,ASUS,12 meses,Intel Core i7-1165G7 Processor  Base2,8 GB,512 GB,,,Endless,15.6 Pulgadas,3.184.888
+https://www.exito.com/portatil-lenovo-3-14are05-amd-ryzen3-ram4gb-256gbssd-14pulgadas-101787698-mp/p,LENOVO,12 meses,AMD RYZEN 3 4300U,4 GB,256 GB,,,FreeDos,14 Pulgadas,1.587.850
+https://www.exito.com/portatil-asus-m1502-ryzen-5-4600h-ram-816gb-ssd-512gb-lector-de-huella-endless-102414632-mp/p,ASUS,12 meses,,24 GB,512 GB,,,Linux,15.6 Pulgadas,2.459.000
+https://www.exito.com/portatil-lenovo-ideapad-s145-linux-14-pulgadas-gris-100679473-mp/p,LENOVO,12 meses,AMD A9,8 GB,Mecánico 1 TB,Radeon 530,2 GB,Sin Sistema Operativo,14 Pulgadas,1.299.000
+https://www.exito.com/portatil-dell-inspiron-15-3505-ryzen-5-3450u-ram-8gb-ssd-256gb-pantalla-156-hd-102017517-mp/p,DELL,12 meses,AMD Ryzen 5 3450U,8 GB,256 GB,,,LINUX,15.6 Pulgadas,1.568.899
+https://www.exito.com/portatil-lenovo-v14-g2-itl-14-core-i5-1135g7-8gb-ssd-256gb-101994544-mp/p,LENOVO,12 meses,Intel Core i5-1135G7,8 GB,512 GB,,,Sin Sistema Operativo,14.1 pulgadas,2.159.900
+https://www.exito.com/portatil-dell-inspiron-15-3505-ryzen-5-3450u-16gb-ram-512gb-ssd-1tb-156-pulgadas-102043454-mp/p,DELL,12 meses,,16 GB,256 GB,,,Windows,14 Pulgadas,2.300.000
+https://www.exito.com/portatil-hp-15-ef2522la-r3-5300u-8gb-256gb-ssd-14-hd-102480132-mp/p,HP,12 meses,,8 GB,256 GB,,,FreeDos,15 Pulgadas,1.449.000
+https://www.exito.com/portatil-hp-245-g7-amd-3020e-8gb-1tb-linux-101369625-mp/p,HP,12 meses,AMD Athlon 3020e,8 GB,Mecánico 1 TB,,,FreeDos,14 Pulgadas,1.098.900
+https://www.exito.com/portatil-asus-x415ja-ek1831w-intel-core-i3-1005g1-8gb-256gb-ssd-windows-11-home-102612868-mp/p,ASUS,12 meses,,8 GB,256 GB,,,Windows,14 Pulgadas,1.489.000
+https://www.exito.com/computador-portatil-asus-156-pulgadas-x543ma-dm1336-intel-celeron-n4020-ssd-128gb-101832226-mp/p,ASUS,12 meses,,4 GB,128 GB,,,Windows 10 de prueba,15.6 Pulgadas,899.000
+https://www.exito.com/nuevo-apple-macbook-air-con-chip-apple-m1-13-pulgadas-8-gb-de-ram-256-gb-de-almacenamiento-ssd-oro-2020-101035916-mp/p,APPLE,12 meses,M1,8 GB,256 GB,,,Mac Os,13 Pulgadas,4.693.999
+https://www.exito.com/portatil-lenovo-v14-iil-core-i5-8-gb-1-tb-14-freedos-mouse-trus-101313847-mp/p,LENOVO,12 meses,Intel Core i5-1035G1,8 GB,Mecánico 1 TB,,,FreeDos,14.1 pulgadas,2.181.150
+https://www.exito.com/macbook-pro-de13pulgadas-ch-apple-mydc2laa-3018202/p,SSD APPLE,1 año,Apple Silicon M1,8 GB,512 GB SSD,,,Mac Os,13.3 Pulgadas,7.849.000
+https://www.exito.com/macbook-air-2020-oro-11ghz-dc-8gb-256gbspa-100794566-mp/p,APPLE,12 meses,Chip M1,8 GB,256 GB,,,Mac Os,13.3 Pulgadas,4.698.999
+https://www.exito.com/portatil-gamer-asus-dash-core-i7-12650h-144-hz-rtx-3060-16-gb-ram-512-ssd-102245469-mp/p,ASUS,3 meses,12650H Core I7,16 GB,512 GB,RTX 3060,6 GB,Windows  11,15.6 Pulgadas,7.399.000
+https://www.exito.com/portatil-asus-x415j-ci5-4gb-ssd-256gb-14-pulgadas-102359860-mp/p,ASUS,12 meses,INTEL CORE I5,8 GB,256 GB,,,FreeDos,14 Pulgadas,1.819.900
+https://www.exito.com/portatil-acer-aspire-amd-ryzen-5-5500u-ssd-1tb-hdd-1tb-ram-20gb-102077433-mp/p,ACER ASPIRE,12 meses,RYZEN 5 5500U,20 GB,Híbrido,,,Windows,15 Pulgadas,2.987.350
+https://www.exito.com/portatil-dell-vostro-3400-core-i5-1135g7-ram-8gb-hdd-1tb-freedos-11va-generacion-101329282-mp/p,DELL,12 meses,Intel Core i5 1135G7 - 11va Generaci,8 GB,Mecánico 1 TB,,,FreeDos,14 Pulgadas,1.949.000
+https://www.exito.com/macbook-pro-14-chip-m1-pro-ap-apple-mkgp3ea-3046720/p,APPLE,1 año,Chip M1 Pro de Apple,16 GB,512 GB SSD,,,Mac Os,14 Pulgadas,10.639.000
+https://www.exito.com/portatil-asus-m1502ia-ryzen-7-4800h-512gb-ssd-8gb-ram-156-pulgadas-fhd-102331435-mp/p,ASUS,12 meses,,8 GB,512 GB,,,Endless,15.6 Pulgadas,2.549.000
+https://www.exito.com/portatil-msi-gf76-12ue-katana-core-i7-12700h-16gb-512gb-ssd-tv-rtx3060-de-6gb-173-pulgadas-freedos-102109964-mp/p,MSI,12 meses,Intel Core i7-12700H - 12th Generaci,16 GB,512 GB,,6 GB,FreeDos,17.3 Pulgadas,6.000.000
+https://www.exito.com/portatil-dell-inspiron-15-3505-ryzen-5-3450u-ram-16gb-ssd-256gb-win-10-156-fhd-101870790-mp/p,DELL,12 meses,AMD Ryzen 5 3450U,16 GB,256 GB,,,Windows 10,15.6 Pulgadas,1.989.900
+https://www.exito.com/portatil-acer-intel-dual-core-n4500-disco-hdd-1tb-ssd-512gb-ram-8gb-102071945-mp/p,ACER ASPIRE,12 meses,CELERON N4500,8 GB,Híbrido,,,Windows,14 Pulgadas,1.310.989
+https://www.exito.com/portatil-gaming-msi-i7-12650h-rtx-4060-8gb-512-ssd-144-hz-156-102633973-mp/p,MSI,3 meses,,8 GB,512 GB,,8 GB,Windows 11 home,15.6 Pulgadas,6.999.999
+https://www.exito.com/portatil-asus-expertbook-b1440fa-bv3124-14-core-i3-4gb-1tb-endless-101646488-mp/p,ASUS,12 meses,Intel Core i3-10110U,4 GB,Mecánico 1 TB,,,Endless,14.1 pulgadas,1.299.888
+https://www.exito.com/portatil-lenovo-ryzen-5-5500u-ram-16gb-ssd-256gb-256gb-v14-102375052-mp/p,LENOVO,12 meses,,16 GB,512 GB,,,FreeDos,14 Pulgadas,2.199.900
+https://www.exito.com/portatil-lenovo-3-athlon-silver-3050u-4gb-256gbssd-freedos-101388549-mp/p,LENOVO,12 meses,Athlon Silver 3050U,4 GB,256 GB,,,Windows 10 de Prueba,14 Pulgadas,936.900
+https://www.exito.com/portatil-asus-x415ja-bv1676-corei3-1005g1-4gb-256ssd-endless-102147299-mp/p,ASUS,12 meses,CORE I3-1005G1,4 GB,256 GB,,,Endless,14 Pulgadas,1.399.000
+https://www.exito.com/portatil-asus-m1502ia-bq167-ryzen-5-512ssd-ram-8gb-156-fhd-os-endless-102580386-mp/p,ASUS,12 meses,RYZEN 5,8 GB,512 GB,,,FreeDos,15 Pulgadas,2.186.900
+https://www.exito.com/portatil-asus-ryzen-5-4600h-8gb-512gb-amd-radeon-m1402ia-102318000-mp/p,ASUS,12 meses,,8 GB,512 GB,,,FreeDos,14 Pulgadas,2.089.900
+https://www.exito.com/portatil-hp-14-intel-core-i5-1135g7-12gb-256gb-102554680-mp/p,HP,12 meses,Intel Core i5,12 GB,256 GB,,,FreeDos,14 Pulgadas,1.729.900
+https://www.exito.com/portatil-hp-ryzen-3-5300u-4gb-256gb-ssd-14-pulgadas-102445297-mp/p,HP,12 meses,RYZEN 3 5300U,4 GB,256 GB,No Tiene Tarjeta de Video,,FreeDos,14 Pulgadas,1.239.000
+https://www.exito.com/portatil-acer-intel-dual-core-n4500-disco-hdd-1tb-ram-4gb-102071953-mp/p,ACER ASPIRE,12 meses,CELERON N4500,4 GB,Mecánico 1 TB,,,Windows,14 Pulgadas,1.123.785
+https://www.exito.com/portatil-asus-tuf-fx506l-core-i5-h-16gb-ssd-512gb-video-4gb-kaspersky-101789897-mp/p,ASUS,12 meses,INTEL CORE I5 10300H,16 GB,512 GB,GTX1650,4 GB,Windows 10,15 Pulgadas,3.599.900
+https://www.exito.com/portatil-dell-inspiron-3515-156-pulgadas-amd-ryzen-5-3450u-8gb-256gb-ssd-102034427-mp/p,DELL,12 meses,ryzen 5 3450u,8 GB,256 GB,Tarjeta Gráfica AMD,,Linux,15 Pulgadas,1.569.645
+https://www.exito.com/portatil-hp-15-ef1031la-amd-ryzen-3-4300u-ram-8gb-ssd-256gb-156-pulgadas-win-11-h-102577279-mp/p,H HP,12 meses,,8 GB,256 GB,,,Windows,15.6 Pulgadas,1.519.999
+https://www.exito.com/portatil-dell-inspiron-amd-ryzen-5-3450u-ssd-256-ram-12gb-102104192-mp/p,DELL,12 meses,RYZEN 5 3450U,12 GB,256 GB,,,Windows 10,15.6 Pulgadas,1.689.860
+https://www.exito.com/portatil-dell-inspiron-amd-ryzen-5-3450u-ssd-256-hdd-1tb-ram-20gb-102102892-mp/p,DELL,12 meses,RYZEN 5 3450U,20 GB,Híbrido,,,Windows 10,15.6 Pulgadas,2.448.690
+https://www.exito.com/portatil-dell-inspiron-amd-ryzen-5-3450u-ssd-512-ram-20gb-102104189-mp/p,DELL,12 meses,RYZEN 5 3450U,20 GB,512 GB,Tarjeta Gráfica AMD,,Windows 10,15.6 Pulgadas,2.226.185
+https://www.exito.com/portatil-asus-m515da-amd-ryzen-5-3500u-hdd-1tb-ram-8gb-102140661-mp/p,ASUS,12 meses,RYZEN 5 3500U,8 GB,Mecánico 1 TB,,,FreeDos,15.6 Pulgadas,1.877.990
+https://www.exito.com/portatil-lenovo-14w-amd-a6-9220c-ssd-128gb-8gb-14-pulgadas-fhd-ips-touch-windows-10-pro-102415369-mp/p,LENOVO,12 meses,,8 GB,128 GB,,,Windows 10 profesional,14.1 pulgadas,1.259.900
+https://www.exito.com/portatil-asus-asus-x415ja-bv2029-intel-core-i3-1005g1-4gb-256gb-14-pulgadas-hd-102412754-mp/p,ASUS,12 meses,,4 GB,256 GB,,,Endless,14 Pulgadas,1.349.000
+https://www.exito.com/portatil-asus-x415mabv041t-celeron-1-tb-ram-4-gb-win-10-pantalla-14-101135697-mp/p,ASUS,12 meses,Intel Celeron N4020,4 GB,Mecánico 1 TB,,,Windows 10,14 Pulgadas,1.150.000
+https://www.exito.com/macbook-pro-13-apple-mly03ea-apple-apple-m2-8-gb-512-gb-ssd-mly03ea-3081333/p,SSD APPLE,1 año,Chip M2  de Apple,8 GB,512 GB SSD,,,Mac Os,13.6 Pulgadas,8.039.000
+https://www.exito.com/portatil-lenovo-e4155-ryzen-3-dd-1tb-4-gb-fredos-14-101155282-mp/p,LENOVO,12 meses,Amd Ryzen 3 3250U,4 GB,Mecánico 1 TB,,,FreeDos,14.1 pulgadas,1.299.000
+https://www.exito.com/portatil-gamer-asus-tuf-156-pulgadas-intel-i5-ram-20gb-512gb-ssd-102556312-mp/p,ASUS,12 meses,INTEL I5,20 GB,512 GB,4 GB,4 GB,LINUX,15.6 Pulgadas,4.633.999
+https://www.exito.com/portatil-asus-tuf-fx516pc-hn002-i5-11300h-8gb-512gb-rtx-3050-endless-102446156-mp/p,ASUS,12 meses,,8 GB,512 GB,RTX 3050,4 GB,linux,15 Pulgadas,4.059.000
+https://www.exito.com/portatil-lenovo-v14514ast-amd-a6-4gb-500gb-14-windows-10-101112632-mp/p,LENOVO,12 meses,AMD A6-9225,4 GB,500 GB,,,Windows,14 Pulgadas,920.000
+https://www.exito.com/portatil-lenovo-intel-core-i5-1035g1-hdd-1tb-ram-16gb-102071938-mp/p,LENOVO,12 meses,I5-1035G1,16 GB,Mecánico 1 TB,,,Windows,14 Pulgadas,2.666.000
+https://www.exito.com/portatil-asus-x415ja-bv2198-14-pulgadas-core-i3-4gb-256gb-ssd-win10-de-prueba-102225068-mp/p,ASUS,12 meses,,4 GB,256 GB,,,Windows,14 Pulgadas,1.350.000
+https://www.exito.com/portatil-asus-tuf-fx506l-core-i5-10th-24gb-512gb-ssd-tv-gtx1650-de-4gb-156-pulgadas-freedos-102110932-mp/p,ASUS,12 meses,Intel Core i5-10300H,24 GB,512 GB,GTX1650,4 GB,FreeDos,15.6 Pulgadas,3.698.999
+https://www.exito.com/portatil-asus-vivobook-15-core-i5-8gb-256gb-ssd-w10-156-fhd-tactil-102057989-mp/p,ASUS,12 meses,Intel Core i5-1135G7,8 GB,256 GB,,,Windows 10 Home,15.6 Pulgadas,2.829.000
+https://www.exito.com/macbook-air-chip-m1-con-cpu-8c-y-gpu-7c-256gb-oro-open-box-102535809-mp/p,APPLE,3 meses,,8 GB,256 GB,,,Mac Os X,13 Pulgadas,4.199.900
+https://www.exito.com/macbook-air-m2-2022-midnight-136-apple-m2-8gb-de-ram-512gb-ssd-apple-m2-10-core-gpu-2560x1664px-macos-monterrey-102438614-mp/p,APPLE,12 meses,Apple M2,8 GB,512 GB,,,Mac Os,13 Pulgadas,8.149.000
+https://www.exito.com/macbook-pro-16-cpu-10-nucleos-512ssd-mas-funda-portatil-102541581-mp/p,APPLE,12 meses,,16 GB,512 GB,16 GB,16 GB,Mac Os,16 Pulgadas,12.600.000
+https://www.exito.com/nuevo-apple-macbook-air-con-chip-apple-m1-13-pulgadas-8-gb-de-ram-256-gb-de-almacenamiento-ssd-gris-2020-101035932-mp/p,APPLE,12 meses,,8 GB,256 GB,,,Mac Os,13 Pulgadas,4.529.000
+https://www.exito.com/laptop-hp-amd-ryzen-3-5300u-ram-8gb-4gb4gb-ssd-256gb-14-fq1051la-portatil-102632783-mp/p,HP,12 meses,,8 GB,256 GB,,,FreeDos,14 Pulgadas,1.299.000
+https://www.exito.com/portatil-legion-5-15imh05-core-i7-ram-16gb-1tb-128gb-ssd-w10h-156-pulgadas-tv-4gb-negro-102634416-mp/p,LENOVO,12 meses,INTEL CORE I7,16 GB,Mecánico 500 GB,,,Windows,15 Pulgadas,6.439.900
+https://www.exito.com/portatil-15-ef1023la-r5-4500u-8gb-256gb-ssd-15-hd-indigo-blue-freedos-teclado-numerico-102323488-mp/p,HP,12 meses,,8 GB,256 GB,,,Linux,15.6 Pulgadas,1.699.000
+https://www.exito.com/portatil-asus-rog-strix-amd-ryzen-9-5900hx-rtx-3080-16-gb-ram-1-tb-ssd-300hz-102612823-mp/p,ASUS,3 meses,AMD Ryzen 9  5900HX,16 GB,1000 GB,RTX 3080,8 GB,Windows,15.6 Pulgadas,8.999.000
+https://www.exito.com/portatil-acer-a114-intel-celeron-n4020-ram-4gb-dsolido-128gb-14-pulgadas-win10-rojo-101660925-mp/p,ACER,12 meses,INTEL CELERON N4020 1,4 GB,128 GB,,,Windows 10,14.1 pulgadas,899.000
+https://www.exito.com/portatil-lenovo-v14-are-ryzen-5-8gb-1tb-free-14-102107229-mp/p,LENOVO,12 meses,AMD Ryzen 5 4500U,8 GB,Mecánico 500 GB,,,FreeDos,14.1 pulgadas,1.859.900
+https://www.exito.com/portatil-asus-gamer-g513-ryzen7-16gb-512gb-tv-4gb-3050-win10-102634427-mp/p,ASUS,12 meses,AMD Ryzen 7 4800H,16 GB,512 GB,RTX 3050,4 GB,Windows,15 Pulgadas,5.399.888
+https://www.exito.com/portatil-lenovo-thinkpad-x13-ci5-10210u-16g-512-ssd-w10-pro-20t3sd2c00-102535822-mp/p,LENOVO,36 meses,,16 GB,512 GB,,,Windows 10,13 Pulgadas,4.899.000
+https://www.exito.com/portatil-msi-gf76-12ue-katana-core-i7-12700h-24gb-512gb-ssd-tv-rtx3060-de-6gb-173-pulgadas-freedos-102110934-mp/p,MSI,12 meses,Intel Core i7-12700H - 12th Generaci,24 GB,512 GB,RTX 3060,6 GB,FreeDos,17.3 Pulgadas,8.813.000
+https://www.exito.com/portatil-acer-intel-dual-core-n4500-disco-hdd-1tb-ssd-512gb-ram-4gb-102071939-mp/p,ACER ASPIRE,12 meses,CELERON N4500,4 GB,Híbrido,,,Windows,14 Pulgadas,1.399.989
+https://www.exito.com/portatil-asus-b1400ceae-bv5242r-14-pulgadas-core-i7-16gb-512-gb-ssd-win10-pro-102379173-mp/p,ASUS,12 meses,,16 GB,512 GB,,,Windows 10,14 Pulgadas,5.399.888
+https://www.exito.com/portatil-dell-inspiron-amd-ryzen-5-3450u-ssd-1tb-hdd-1tb-ram-20gb-102104176-mp/p,DELL,12 meses,RYZEN 5 3450U,20 GB,Híbrido,,,Windows 10,15.6 Pulgadas,2.377.105
+https://www.exito.com/portatil-lenovo-e14-1135-ci5-ram-16gb-ssd-512gb-win-10-102430398-mp/p,LENOVO,12 meses,Intel Core i5,16 GB,512 GB,,,Windows,14.1 pulgadas,4.399.000
+https://www.exito.com/portatil-lenovo-amd-ryzen-5-4500u-disco-hdd-1tb-ram-16gb-102094503-mp/p,LENOVO,12 meses,RYZEN 5 4500U,16 GB,Mecánico 1 TB,,,Windows 10,14 Pulgadas,2.287.590
+https://www.exito.com/portatil-asus-x515e-intel-core-i7-1165g7-ssd-512gb-ram-8gb-156-pulgadas-fhd-102342752-mp/p,ASUS,12 meses,,8 GB,512 GB,,,FreeDos,15 Pulgadas,3.299.000
+https://www.exito.com/portatil-asus-m1502-ryzen-5-4600h-ram-8gb-ssd-512gb-lector-de-huella-endless-102414542-mp/p,ASUS,12 meses,,8 GB,512 GB,,,Linux,15.6 Pulgadas,2.089.900
+https://www.exito.com/portatil-acer-156-pulgadas-intel-i5-ram-12gb-512gb-ssd-black-102338045-mp/p,ACER,12 meses,,12 GB,512 GB,,,Windows,15.6 Pulgadas,2.318.999
+https://www.exito.com/portatil-acer-aspire-amd-ryzen-5-5500u-ssd-512-hdd-1tb-ram-12gb-102077445-mp/p,ACER ASPIRE,12 meses,RYZEN 5 5500U,12 GB,Híbrido,,,Windows,15 Pulgadas,2.674.800
+https://www.exito.com/portatil-dell-vostro-3405-ryzen-5-3450u-ram-16gb-8gb8gb-ssd-256gb-240gb-102525718-mp/p,DELL,12 meses,,16 GB,SSD 960GB,,,Linux,14 Pulgadas,1.734.900
+https://www.exito.com/portatil-asus-m513ia-bq172-ryzen-7-4700u-8gb-512gb-freedos-102078070-mp/p,ASUS,12 meses,AMD - Ryzen 7-4700U,8 GB,512 GB,,,FreeDos,15.6 Pulgadas,2.880.000
+https://www.exito.com/portatil-dell-core-i3-1115g4-12gb-1tb-256gb-ssd-diadema-102117523-mp/p,DELL,12 meses,,12 GB,Mecánico 1 TB,,,Windows,15 Pulgadas,1.792.900
+https://www.exito.com/portatil-dell-inspiron-15-3515-ryzen-5-3450u-ram-16gb-ssd-256gb-ubuntu-156-hd-102018191-mp/p,DELL,12 meses,AMD Ryzen 5 3450U,16 GB,256 GB,,,Ubuntu,15.6 Pulgadas,1.746.888
+https://www.exito.com/portatil-acer-intel-dual-core-n4500-disco-hdd-1tb-ram-12gb-102071955-mp/p,ACER ASPIRE,12 meses,CELERON N4500,12 GB,Mecánico 1 TB,,,Windows,14 Pulgadas,1.309.785
+https://www.exito.com/portatil-asus-ryzen-5-4600h-ram-8gb-8gb-ssd-512gb-amd-radeon-m1402ia-102317997-mp/p,ASUS,12 meses,,16 GB,512 GB,,,FreeDos,14.1 pulgadas,2.239.900
+https://www.exito.com/portatil-hp-245-g8-amd-ryzen-5-5500u-ram-8gb-dd-1tera-ssd256gb-14-pulgadas-linux-102389428-mp/p,HP,12 meses,,8 GB,Híbrido,,,Linux,14.1 pulgadas,1.888.790
+https://www.exito.com/portatil-lenovo-amd-ryzen-5-4500u-disco-hdd-1tb-ram-8gb-102094486-mp/p,LENOVO,12 meses,RYZEN 5 4500U,8 GB,Mecánico 1 TB,,,Windows 10,14 Pulgadas,2.202.080
+https://www.exito.com/portatil-hp-14-pulgadas-intel-core-i5-1135-g7-20-gb-256-gb-ssd-win-102634644-mp/p,HP,12 meses,,20 GB,256 GB,,,FreeDos,14 Pulgadas,1.799.900
+https://www.exito.com/portatil-asus-x415ea-ek1183-ci5-1135g7-4gb-256-ssd-endless-102132875-mp/p,ASUS,12 meses,Intel Core i5-1135G7,4 GB,256 GB,,,Endless,14 Pulgadas,1.890.000
+https://www.exito.com/portatil-acer-a314-35-c3kb-intel-celeron-n4500-ram-4gb-ddr4-1tera-pantalla-14-pulgadas-hd-sin-sistema-operativo-102089977-mp/p,ACER,12 meses,,4 GB,Mecánico 1 TB,,,Sin Sistema Operativo,14 Pulgadas,990.900
+https://www.exito.com/hp-245-g8-amd-ryzen-5-5500u-4gb-1-tera-14-pulgadas-windows-10-pro-102097062-mp/p,HP,12 meses,,4 GB,Mecánico 500 GB,,,Windows 10,14.1 pulgadas,1.699.000
+https://www.exito.com/portatil-lenovo-ideapad-3-14ada05-amd-athlon-silver-23ghz-256gb-ssd-4gb-14-101369994-mp/p,LENOVO,12 meses,Amd Athlon Silver,4 GB,256 GB,,,FreeDos,13.3 Pulgadas,1.030.000
+https://www.exito.com/portatil-toshiba-dynabook-portege-x30w-j3132-i5-1135g7-256gb-8gb-133-fhd-touch-102522163-mp/p,TOSHIBA,12 meses,,8 GB,256 GB,,,Windows,13.3 Pulgadas,4.099.900
+https://www.exito.com/portatil-asus-m515da-amd-ryzen-5-3500u-hdd-1tb-ram-16gb-102140658-mp/p,ASUS,12 meses,RYZEN 5 3500U,16 GB,Mecánico 1 TB,No Tiene Tarjeta de Video,,Linux,15.6 Pulgadas,1.949.999
+https://www.exito.com/portatil-asus-ryzen-3-3250u-ram-12gb-ssd-512gb-win-10home-14-pulgadas-102727326-mp/p,ASUS,12 meses,,12 GB,512 GB,,,Windows,14 Pulgadas,1.599.900
+https://www.exito.com/portatil-lenovo-ideapad-3-14itl6-intel-core-i3-1115g4-14-pulgadas-fhd-memoria-4gb-ssd-azul-102485402-mp/p,LENOVO,12 meses,,4 GB,512 GB,,,FreeDos,14 Pulgadas,1.469.900
+https://www.exito.com/portatil-asus-x415ea-ek1182-intel-core-i3-1115g4-4gb-256-ssd-endless-gris-102228283-mp/p,ASUS,12 meses,,4 GB,256 GB,,,Endless,14 Pulgadas,1.409.000
+https://www.exito.com/portatil-msi-thin-gf63-corei5-10200h-gtx1650-256ssd-8gb-win-10-101798127-mp/p,MSI,3 meses,CORE I5-10200H,8 GB,256 GB,GTX1650,4 GB,Windows,15.6 Pulgadas,3.494.999
+https://www.exito.com/portatil-asus-m515da-amd-ryzen-5-3500u-ssd-256-hdd-1tb-ram-16gb-102140516-mp/p,ASUS,12 meses,RYZEN 5 3500U,16 GB,Híbrido,,,Linux,15.6 Pulgadas,2.554.400
+https://www.exito.com/portatil-lenovo-ip-3-14igl05-intel-celeron-n4020-14-pulgadas-pulgadas-memoria-4gb-disco-duro-500gb-windows-10h-gris-platino-101970100-mp/p,LENOVO,12 meses,Intel Celeron,4 GB,500 GB,,,Windows 10,14.1 pulgadas,980.900
+https://www.exito.com/portatil-asus-m515da-amd-ryzen-5-3500u-ssd-1tb-hdd-1tb-ram-24gb-102140519-mp/p,ASUS,12 meses,RYZEN 5 3500U,24 GB,Híbrido,,,Windows 10,15.6 Pulgadas,2.535.000
+https://www.exito.com/portatil-lenovo-ideapad-3-14igl05-intel-celeron-n4020-ssd-128gb-4gb-14-pulgadas-hd-freedos-platinum-grey-102693558-mp/p,LENOVO,12 meses,Intel celeron,4 GB,128 GB,,,FreeDos,14.1 pulgadas,899.900
+https://www.exito.com/dell-inspirion-3515-ryzen-5-256-gb-12-gg-156-pulgadas-102634643-mp/p,DELL,12 meses,,12 GB,256 GB,,,,14 Pulgadas,1.798.000
+https://www.exito.com/portatil-asus-m1402ia-ek134-ryzen-5-4600h-ram-8gb-ssd-512gb-pantalla-14fhd-102564615-mp/p,ASUS,12 meses,,8 GB,512 GB,,,FreeDos,14.1 pulgadas,2.169.000
+https://www.exito.com/portatil-asus-vivobook-x415ja-eb1079-core-i5-8gb-256-ssd-endless-14-pulgadas-fhd-101949206-mp/p,ASUS,12 meses,Intel Core i5-1035G1,8 GB,256 GB,,,Sistema Operativo LINUX,14.1 pulgadas,1.899.000
+https://www.exito.com/portatil-lenovo-amd-ryzen-5-5500u-ssd-256-hdd-1tb-ram-20gb-102034379-mp/p,LENOVO,12 meses,,16 GB,Híbrido,,,Windows,14 Pulgadas,3.012.050
+https://www.exito.com/portatil-lenovo-intel-core-i5-1035g1-ssd-1tb-hdd-1tb-ram-8gb-102071962-mp/p,LENOVO,12 meses,I5-1035G1,8 GB,Híbrido,,,Windows,14 Pulgadas,2.889.200
+https://www.exito.com/portatil-acer-gateway-core-i3-1115g4-11-gen-ram-4gb-ssd-128gb-w10-141-fhd-morado-101992854-mp/p,GATEWAY,12 meses,Intel Core i3-1115G4 de 11,4 GB,128 GB,,,Windows 10,14 Pulgadas,1.479.900
+https://www.exito.com/portatil-lenovo-amd-ryzen-5-4500u-ssd-256-hdd-1tb-ram-12gb-102094497-mp/p,LENOVO,12 meses,RYZEN 5 4500U,12 GB,Híbrido,,,Windows 10,14 Pulgadas,2.511.140
+https://www.exito.com/portatil-lenovo-amd-ryzen-5-5500u-ssd-256-hdd-1tb-ram-8gb-102039214-mp/p,LENOVO,12 meses,,8 GB,Híbrido,,,Windows,14 Pulgadas,2.714.010
+https://www.exito.com/portatil-dell-inspiron-amd-ryzen-5-3450u-ssd-512-hdd-1tb-ram-12gb-102104178-mp/p,DELL,12 meses,RYZEN 5 3450U,12 GB,Híbrido,,,Windows 10,15.6 Pulgadas,2.552.390
+https://www.exito.com/portatil-lenovo-thinkpad-e14-gen3-ryzen-5-5500u-8g-256gb-ssdw10-pro-20yds0rf00-102531252-mp/p,LENOVO,12 meses,,8 GB,256 GB,,,Windows 10 Pro 64,14.1 pulgadas,4.417.800
+https://www.exito.com/portatil-lenovo-amd-ryzen-5-5500u-ssd-256-hdd-1tb-ram-12gb-102034374-mp/p,LENOVO,12 meses,,12 GB,Híbrido,,,Windows,14 Pulgadas,2.797.380
+https://www.exito.com/portatil-lenovo-amd-ryzen-5-4500u-ssd-256-hdd-1tb-ram-8gb-102094484-mp/p,LENOVO,12 meses,RYZEN 5 4500U,8 GB,Híbrido,,,Windows 10,14 Pulgadas,2.430.400
+https://www.exito.com/portatil-acer-intel-dual-core-n4500-disco-hdd-1tb-ssd-256gb-ram-4gb-102070088-mp/p,ACER ASPIRE,12 meses,CELERON N4500,4 GB,Híbrido,,,Windows,14 Pulgadas,1.322.045
+https://www.exito.com/portatil-lenovo-ideapad-amd-ryzen-3-4300u-ssd-256-hdd-1tb-ram-16gb-102100230-mp/p,LENOVO,12 meses,RYZEN 3 4300U,16 GB,Híbrido,,,Windows 10,14 Pulgadas,2.182.400
+https://www.exito.com/portatil-lenovo-amd-ryzen-5-5500u-ssd-512-hdd-1tb-ram-20gb-102039205-mp/p,LENOVO,12 meses,,16 GB,Híbrido,,,Windows,14 Pulgadas,3.107.360
+https://www.exito.com/portatil-lenovo-amd-ryzen-5-5500u-hdd-1tb-ram-20-con-huella-102039215-mp/p,LENOVO,12 meses,,20 GB,Mecánico 1 TB,,,Windows,14 Pulgadas,2.825.630
+https://www.exito.com/portatil-lenovo-amd-ryzen-5-4500u-disco-hdd-1tb-ram-20gb-102094485-mp/p,LENOVO,12 meses,RYZEN 5 4500U,20 GB,Mecánico 1 TB,,,Windows 10,14 Pulgadas,2.579.200
+https://www.exito.com/portatil-lenovo-amd-ryzen-5-4500u-disco-hdd-1tb-ram-12gb-102094493-mp/p,LENOVO,12 meses,RYZEN 5 4500U,12 GB,Mecánico 1 TB,,,Windows 10,14 Pulgadas,2.315.740
+https://www.exito.com/portatil-lenovo-amd-ryzen-5-5500u-ssd-1tb-hdd-1tb-ram-8gb-102039199-mp/p,LENOVO,12 meses,,8 GB,Híbrido,,,Windows,14 Pulgadas,2.986.750
+https://www.exito.com/portatil-lenovo-amd-ryzen-5-4500u-ssd-512-hdd-1tb-ram-12gb-102094501-mp/p,LENOVO,12 meses,RYZEN 5 4500U,12 GB,Híbrido,,,Windows 10,14 Pulgadas,2.638.390
+https://www.exito.com/portatil-msi-gamer-core-i5-10500h-ram-8gb-ssd-256gb-video-nvidia-gtx-1650-4gb-156-102007149-mp/p,MSI,3 meses,Core i5 10500H 2,8 GB,256 GB,,4 GB,Windows 10,15.6 Pulgadas,3.493.049
+https://www.exito.com/portatil-asus-m513ia-amd-ryzen-7-4700u-512-gb-ssd-8gb-endless-102141176-mp/p,ASUS,12 meses,RYZEN 7-4700U,8 GB,512 GB,,,Endless,15.6 Pulgadas,2.880.000
+https://www.exito.com/portatil-msi-gf65-i7-16gbram-6gb-rtx2060-512gb-ssd-156-ips-100811525-mp/p,MSI,12 meses,,16 GB,500 GB,,,Windows 10,15.6 Pulgadas,8.990.000
+https://www.exito.com/portatil-toshiba-tecra-dynabook-a40g-celeron-5205u-ram-4gb-ssd-128-gb-14-windows-home-101319416-mp/p,TOSHIBA,12 meses,,4 GB,128 GB,,,Windows 10,14.1 pulgadas,999.888
+https://www.exito.com/portatil-acer-a5145335d4-core-i3-ram-4gb-ssd-256gb-14p-100919074-mp/p,ACER,12 meses,Intel Core i3-1005G1,4 GB,256 GB,,,Windows 10,14 Pulgadas,1.899.900
+https://www.exito.com/portatil-lenovo-legion-core-i7-512gb-ssd-16gb-rtx-2060-240hz-101415958-mp/p,LENOVO,12 meses,core i7-10750H,16 GB,512 GB,RTX2060,6 GB,Windows,15.6 Pulgadas,5.095.000
+https://www.exito.com/portatil-dell-inspiron-14-3493-core-i3-1005g1-ram-4gb-ssd-128gb-14-101422095-mp/p,DELL,12 meses,Intel Core i3-1005G1 de 10,4 GB,128 GB,,,Windows 10 home,14.1 pulgadas,1.649.900
+https://www.exito.com/portatil-acer-gateway-core-i3-4gb-128gb-sdd-color-verde-101994247-mp/p,GATEWAY,12 meses,Core i3-1115G4,4 GB,128 GB,,,Windows 10,14.1 pulgadas,1.379.900
+https://www.exito.com/portatil-msi-gf63-156-8gb-ci5-9300h-256-gb-ssd-gtx-1650-max-q-100727479-mp/p,Q MSI,3 meses,9300H,8 GB,256 GB,,,Windows,15.6 Pulgadas,3.499.000
+https://www.exito.com/lenovo-156-ideapad-gaming-3-laptop-101388659-mp/p,LENOVO,3 meses,CORE I5 10300H,8 GB,256 GB,GTX1650,4 GB,Windows 10,15.6 Pulgadas,3.599.000
+https://www.exito.com/portatil-acer-nitro-5-an515-57-584y-core-i5-11ava-generacion-256gb-ssd-8gb-ram-256gb-101630208-mp/p,ACER NITRO,12 meses,Core i5-11400H,8 GB,256 GB,GTX1650,4 GB,Windows 10,15.6 Pulgadas,3.799.000
+https://www.exito.com/portatil-msi-gf63-156-8gb-ci5-9300h-256-gb-ssd-gtx-1650-max-q-mouse-gamer-t6-101005077-mp/p,MSI,3 meses,Intel 9300H,8 GB,256 GB,,,Windows,15.6 Pulgadas,3.399.000
+https://www.exito.com/portatil-lenovo-v14-g2-itl-core-i3-1115g4-4gb-ssd-256gb-14-102043128-mp/p,LENOVO,12 meses,Intel core i3 1115,4 GB,256 GB,,,Linux,14.1 pulgadas,1.469.900
+https://www.exito.com/laptop-asus-vivobook-m513ua-l1304-ryzen-7-5700u-24gb-512gb-oled-156-102341264-mp/p,ASUS,12 meses,,24 GB,512 GB,,,FreeDos,15.6 Pulgadas,3.999.000
+https://www.exito.com/portatil-asus-e410ma-bv897-celeron-n4020-4-gb-256-ssd-endless-102006521-mp/p,ASUS,12 meses,CELERON N4020,4 GB,256 GB,,,Endless,14.1 pulgadas,1.068.740
+https://www.exito.com/portatil-gamer-hp-r5-4600h-16gb-512-ssd-102117516-mp/p,HP,12 meses,,16 GB,512 GB,,,Windows,15 Pulgadas,3.799.900
+https://www.exito.com/portatil-gamer-asus-tuf-156-pulgadas-intel-i5-ram-8gb-512gb-ssd-102556310-mp/p,ASUS,12 meses,I5,8 GB,512 GB,4 GB,4 GB,LINUX,15.6 Pulgadas,3.980.000
+https://www.exito.com/portatil-asus-zenbook-ryzen-5-5500u-ram-8gb-ssd512-um325qa-102414635-mp/p,ASUS,12 meses,,8 GB,512 GB,,,Windows,14 Pulgadas,3.859.000
+https://www.exito.com/portatil-lenovo-amd-ryzen-5-5500u-hdd-1tb-ram-16gb-con-huella-102066754-mp/p,LENOVO,12 meses,AMD RYZEN 5 5500U,16 GB,Mecánico 1 TB,,,Windows,14 Pulgadas,2.759.510
+https://www.exito.com/portatil-lenovo-v14-are-ryzen-7-8gb-1tb-freedos-14-pulgadas-102027436-mp/p,LENOVO,12 meses,AMD Ryzen 7 4700U,8 GB,Mecánico 1 TB,,,FreeDos,14.1 pulgadas,2.199.000
+https://www.exito.com/laptop-gaming-omen-16-c0503la-amd-ryzen-7-16-gb-amd-radeon-rx-6600m-512-161-fhd-windows-11-mouse-omen-vector-102412794-mp/p,HP,12 meses,AMD Ryzen 7 5800H,16 GB,512 GB,,6 GB,Windows 11 Home,16 Pulgadas,8.516.400
+https://www.exito.com/apple-macbook-pro-2021-162-pulgadas-m1-max-10-core-32-cpu-64gb-2tb-space-gray-102214194-mp/p,APPLE,12 meses,,64 MB,Mecánico 2 TB,,,Mac Os,16 Pulgadas,38.900.000
+https://www.exito.com/portatil-lenovo-ideapad-gaming-3-15imh05-ci7-10750h-16g-1tb128-w10-h-102040511-mp/p,H LENOVO,12 meses,Intel Core i7,16 GB,Mecánico 1 TB,GTX1650Ti,4 GB,Windows 10,15.6 Pulgadas,5.772.000
+https://www.exito.com/portatil-huawei-matebook-ryzen-7-ram-8g-disco-512-gb-ssd-102523282-mp/p,HUAWEI,12 meses,,8 GB,512 GB,,,windows,14 Pulgadas,3.900.000
+https://www.exito.com/portatil-msi-thin-gf63-10sc-035-gaming-core-i5-10ma-gen-256gb-ssd-8gb-156-nvidia-gtx-1650-4gb-win-10-101775913-mp/p,MSI,3 meses,Core i5-10300H,8 GB,256 GB,GTX1650,4 GB,Windows 10,15.6 Pulgadas,3.499.000
+https://www.exito.com/portatil-lenovo-81wr-corei3-10110u-256ssd-8gb-windows-10-101520472-mp/p,LENOVO,12 meses,core i3,8 GB,256 GB,,,windows 10,15 Pulgadas,1.890.000
+https://www.exito.com/portatil-lenovo-gaming-3-5600h-gtx-1650-156-pulgadas-fhd-256-ssd-101833669-mp/p,LENOVO,3 meses,Ryzen 5 5600H,8 GB,256 GB,GTX1650,4 GB,Windows 10,15.6 Pulgadas,3.579.900
+https://www.exito.com/portatil-dell-3400-core-i5-11va-12gb-1tb-ssd-500gb-linux-101394474-mp/p,DELL,12 meses,Intel Core i5 1135G7,12 GB,Híbrido,,,UBUNTU,14.1 pulgadas,2.149.000
+https://www.exito.com/portatil-asus-tuf-fx516pc-core-i5-8gb-8gb-512gb-ssd-rtx-3050-102482659-mp/p,ASUS,12 meses,Intel Core i5-11300H,16 GB,512 GB,RTX 3050,4 GB,FreeDos,15.6 Pulgadas,4.399.000
+https://www.exito.com/portatil-acer-intel-dual-core-n4500-disco-hdd-1tb-ssd-512gb-ram-12gb-102071196-mp/p,ACER ASPIRE,12 meses,CELERON N4500,12 GB,Híbrido,,,Windows,14 Pulgadas,1.594.985
+https://www.exito.com/portatil-asus-vivobook-m513i-156-ryzen-7-4700u-8g-512gb-ssd-102075744-mp/p,ASUS,12 meses,,8 GB,512 GB,,,FreeDos,15 Pulgadas,2.880.000
+https://www.exito.com/portatil-hp-14-ryzen-5-5500u-4gb-ram-256gb-ssd-102321739-mp/p,HP,12 meses,,4 GB,256 GB,,,Windows,14 Pulgadas,1.628.000
+https://www.exito.com/portatil-acer-nitro-5-i5-9300h-gtx1650-8gb-100942310-mp/p,ACER,3 meses,INTEL CORE I5 9300H,8 GB,512 GB,,,FreeDos,15.6 Pulgadas,3.749.000
+https://www.exito.com/laptop-hp-pavilion-15-eg0500la-intel-core-i5-8-gb-256-gb-ssd-156-hd-windows-11-home-single-language-102410537-mp/p,HP,12 meses,Intel Core i5-1135G7,8 GB,256 GB,,,Windows 11 Home Single Language,15.6 Pulgadas,3.303.500
+https://www.exito.com/portatil-acer-aspire-amd-ryzen-5-5500u-ssd-512-hdd-1tb-ram-16gb-102077045-mp/p,ACER ASPIRE,12 meses,RYZEN 5 5500U,16 GB,Híbrido,,,Windows,15 Pulgadas,2.742.800
+https://www.exito.com/portatil-acer-aspire-amd-ryzen-5-5500u-ssd-256-ram-20gb-102078121-mp/p,ACER ASPIRE,12 meses,RYZEN 5 5500U,20 GB,256 GB,,,Windows,15.6 Pulgadas,2.537.900
+https://www.exito.com/portatil-msi-gamer-sword-a12ue-ci7-12650h-156-pulgadas-fhd-144hz-ips-16gb-ram-ssd-1tb-tv-rtx3060-ddr6-6gb-win-11-102577268-mp/p,LENOVO,12 meses,,16 GB,Disco sólido 1TB,RTX 3060 Laptop GPU,,Windows,15.6 Pulgadas,7.150.000
+https://www.exito.com/portatil-dell-vostro-143400-core-i5-4gb-1tb-ubuntu-negro-101388793-mp/p,DELL,12 meses,,4 GB,Mecánico 1 TB,,,Linux,14 Pulgadas,1.685.000
+https://www.exito.com/lenovo-thinkpad-l15-gen-2-intel-core-i7-1165g7-ssd-256-gb-8gb-156-pulgadas-video-2gb-mx450-windows-10-pro-102541540-mp/p,LENOVO,12 meses,Intel core i7,8 GB,256 GB,,,Windows 10 Profesional,15 Pulgadas,6.699.000
+https://www.exito.com/portatil-acer-nitro-5-an515-55-5213-ci5-10300h-8g-512-ssd-w10-h-nhqazal00a-102541750-mp/p,ACER,12 meses,,8 GB,512 GB,GTX1650,4 GB,Windows 10,16 Pulgadas,3.552.000
+https://www.exito.com/portatil-asus-k513ea-oled-core-i5-11-th-156-pulgadas-12-gb-512-ssd-fhd-102309699-mp/p,ASUS,12 meses,Intel I5,12 GB,512 GB,,,Windows 10,15.6 Pulgadas,3.499.000
+https://www.exito.com/thinkpad-lenovo-e14-gen-2-amd-r7-8gb-256gbssd-14-pulgadas-win-10-pro-102218397-mp/p,LENOVO,12 meses,,8 GB,512 GB,,,Windows,14 Pulgadas,4.321.900
+https://www.exito.com/portatil-lenovo-intel-core-i5-1035g1-ssd-256-hdd-1tb-ram-12gb-102068800-mp/p,LENOVO,12 meses,I5-1035G1,12 GB,Híbrido,,,Windows,14 Pulgadas,2.703.200
+https://www.exito.com/dell-latitude-14-3420-intel-core-i7-1165g7-ram8gb-256gb-ssd-pantalla-14-pulgadas-windows-10-profesional-102066838-mp/p,DELL,12 meses,,8 GB,256 GB,,,Windows 10,14 Pulgadas,5.411.900
+https://www.exito.com/portatil-lenovo-ideapad-1-3020e-4gb-ssd-128gb-windows-10home-102039177-mp/p,LENOVO,12 meses,,4 GB,128 GB,,,Windows 10,14 Pulgadas,989.800
+https://www.exito.com/portatil-lenovo-gaming-11300h-intel-i5-512-ssd-gtx-1650-8gb-ram-102218296-mp/p,LENOVO,3 meses,11300H,8 GB,512 GB,GTX1650,4 GB,Windows,15.6 Pulgadas,3.399.000
+https://www.exito.com/portatil-dell-latitude-3420-core-i5-11th-8gb-ram-ssd-256-gb-w11-pro-102374616-mp/p,DELL,36 meses,Intel Core i5,8 GB,256 GB,,,Windows 11,14.1 pulgadas,4.999.900
+https://www.exito.com/msi-katana-173-pulgadas-gaming-laptop-144hz-i7-12700h-16gb-ram-512gb-ssd-rtx-3060-6gb-102431317-mp/p,MSI,12 meses,i7-12700H,16 GB,512 GB,Tarjeta Gráfica NVIDIA,6 GB,Windows,17.3 Pulgadas,7.099.000
+https://www.exito.com/portatil-gamer-gigabyte-g5-12500h-rtx-4060-512-ssd-8gb-ram-144hz-102593064-mp/p,GIGABYTE,3 meses,,8 GB,512 GB,6 GB,6 GB,Windows  11,15.6 Pulgadas,6.999.000
+https://www.exito.com/portatil-lenovo-ideapad-3-15itl6-intel-core-i7-8gb-1t-128-gb-ssd-102531243-mp/p,LENOVO,12 meses,Intel Core i7,8 GB,128 GB,,2 GB,FreeDos,15.6 Pulgadas,3.499.900
+https://www.exito.com/portatil-lenovo-amd-ryzen-5-4500u-ssd-1tb-hdd-1tb-ram-20gb-102094496-mp/p,LENOVO,12 meses,RYZEN 5 4500U,20 GB,Híbrido,,,Windows 10,14 Pulgadas,3.045.100
+https://www.exito.com/portatil-msi-thin-gf65-corei7-10750h-gtx1660ti-512ssd-8gb-win-10-101795142-mp/p,MSI,12 meses,CORE I7-10750H,8 GB,512 GB,GTX1660Ti,6 GB,Windows,15.6 Pulgadas,4.999.000
+https://www.exito.com/portatil-lenovo-thinkbook-15-gen-3-ryzen-7-5700u-16g-512-ssd-w10-pro-102114483-mp/p,LENOVO,12 meses,AMD Ryzen 7 5700U,16 GB,512 GB,,,Windows 10,15.6 Pulgadas,4.200.000
+https://www.exito.com/portatil-asus-expertbook-b1440fa-bv3124-14-core-i3-8gb-ssd-512gb-1tb-102550072-mp/p,ASUS,12 meses,,8 GB,Mecánico 1 TB,,,Endless,14.1 pulgadas,1.329.888
+https://www.exito.com/portatil-asus-vivobook-m513i-156-ryzen-7-8gb-512gb-ssd-linux-101298184-mp/p,ASUS,12 meses,Ryzen 7 4700U,8 GB,512 GB,,,FreeDos,15 Pulgadas,3.049.000
+https://www.exito.com/portatil-asus-x415ja-bv2029-core-i3-1005g1-ram-4gb-ssd-256-pantalla-14-pulgadas-hd-102436212-mp/p,ASUS,12 meses,,4 GB,256 GB,,,Endless,14 Pulgadas,1.369.800
+https://www.exito.com/lenovo-ideapad-14-amd-athlon-silver-12gb-256gb-1tb-plata-102565538-mp/p,LENOVO,12 meses,ATHLON SILVER 3050,12 GB,256 GB,,,FreeDos,14.1 pulgadas,1.404.000
+https://www.exito.com/portatil-gamer-hp-omen-16-pulgadas-ryzen-7-ssd-512gb-nvidia-rtx-3050-102005035-mp/p,HP,12 meses,AMD Ryzen 7 5800H,8 GB,512 GB,4 GB,4 GB,Windows 10 Home,16 Pulgadas,6.299.999
+https://www.exito.com/portatil-asus-k513ea-bn716-core-i7-ram8gb-256gbssd-endless-101795216-mp/p,ASUS,12 meses,INTEL CORE I7 1165G7,8 GB,256 GB,,,Endless,15.6 Pulgadas,3.737.840
+https://www.exito.com/portatil-hp-14-intel-core-i5-1135g7-8gb-256gb-102554690-mp/p,HP,12 meses,Intel Core i5,8 GB,256 GB,,,FreeDos,14 Pulgadas,1.699.900
+https://www.exito.com/portatil-lenovo-thinkbook-13s-g2-ci7-16gb-512gb-ssd-win10pro-102102348-mp/p,LENOVO,12 meses,Intel Core i7-1165G7,16 GB,512 GB,,,Windows 10 Pro,13.3 Pulgadas,4.975.900
+https://www.exito.com/portatil-asus-tuf-fx506lhb-hn323-f15-fx506-i5-10300h-156-pulgadas-fhd-8gb-512gb-ssd-gtx-1650-102159267-mp/p,ASUS,12 meses,,8 GB,512 GB,GTX1650,4 GB,FreeDos,15.6 Pulgadas,3.299.000
+https://www.exito.com/portatil-lenovo-idepad-gaming-ryzen-5-4600h-256-ssd-gtx-1650-156-pulgadas-101413381-mp/p,LENOVO,3 meses,Ryzen 5 4600H,8 GB,SSD 240 GB,GTX1650,4 GB,Windows 10,15.6 Pulgadas,3.499.000
+https://www.exito.com/portatil-asus-tuf-fx506li-hn002-corei5-10300h-8gb-512-ssd-gtx1650-101795159-mp/p,ASUS,12 meses,CORE I5-10300H,8 GB,512 GB,GTX1650,4 GB,Endless,15.6 Pulgadas,3.639.999
+https://www.exito.com/portatil-tecra-a40-g-celeron-5205u-4gb-128gb-ssd-w10pro-101424618-mp/p,TOSHIBA,12 meses,Intel Celeron Processor 5205U,4 GB,128 GB,,,Windows 10 Pro,14.1 pulgadas,999.000
+https://www.exito.com/portatil-hp-15-ef2013dx-ryzen-5-5500u-ram-12gb-ssd-256gb-156-fhd-w11-102375097-mp/p,ASUS,12 meses,,12 GB,256 GB,,,Windows 10,15 Pulgadas,2.189.900
+https://www.exito.com/portatil-dell-inspiron-15-3505-ryzen-5-3450u-16gb-ram-1tb1tb-ssd-102043441-mp/p,DELL,12 meses,Ryzen 5 3450U,16 GB,Mecánico 1 TB,,,Windows,15.6 Pulgadas,2.518.460
+https://www.exito.com/portatil-msi-bravo-17-a4ddr-ryzen7-ram-16gb-512ssd-rx5500m-4gb-101037960-mp/p,MSI,12 meses,AMD Ryzen 7 4800H Procerssor,16 GB,512 GB,,,FreeDos,17.3 Pulgadas,8.990.000
+https://www.exito.com/portatil-acer-a515-54-58q1-core-i5-8gb-256gb-ssd-156-pulgadas-win-10-home-102224891-mp/p,ACER,12 meses,,8 GB,256 GB,,,Windows,15.6 Pulgadas,2.129.900
+https://www.exito.com/portatil-lenovo-intel-core-i5-1035g1-ssd-512-hdd-1tb-ram-16gb-102071971-mp/p,LENOVO,12 meses,I5-1035G1,16 GB,Híbrido,,,Windows,14 Pulgadas,2.951.200
+https://www.exito.com/portatil-asus-intel-core-i3-ram-8gb-disco-ssd-256gb-obsequio-mouse-102211106-mp/p,ASUS,12 meses,,8 GB,256 GB,,,Linux,14.1 pulgadas,1.799.900
+https://www.exito.com/portatil-lenovo-v14-are-ryzen-7-20gb-ssd-512-1tb-14-pulgadas-102577310-mp/p,LENOVO,12 meses,AMD Ryzen 7 4700U,20 GB,Mecánico 500 GB,,,FreeDos,14.1 pulgadas,2.799.888
+https://www.exito.com/portatil-lenovo-amd-ryzen-5-4500u-ssd-256-hdd-1tb-ram-16gb-102094491-mp/p,LENOVO,12 meses,RYZEN 5 4500U,16 GB,Híbrido,,,Windows 10,14 Pulgadas,2.383.339
+https://www.exito.com/portatil-acer-nitro-5-i510300h-decima-ge-8gb-256gb-gtx-1650-100862422-mp/p,ACER,3 meses,intel core i5 decima generacion,8 GB,256 GB,,,Windows,15.6 Pulgadas,3.779.900
+https://www.exito.com/portatil-hp-15-dw1073la-i7-10510u-8gb-256gb-uma-15-hd-tn-no-touch-natural-silver-acd-ff-w10-plus-102039345-mp/p,HP,12 meses,Procesador Intel Core i7 de 10,8 GB,256 GB,,,Windows 10 Home 64,15.6 Pulgadas,2.900.000
+https://www.exito.com/portatil-lenovo-amd-ryzen-5-4500u-ssd-256-hdd-1tb-ram-20gb-102094490-mp/p,LENOVO,12 meses,RYZEN 5 4500U,20 GB,Híbrido,,,Windows 10,14 Pulgadas,2.777.600
+https://www.exito.com/portatil-lenovo-intel-core-i5-1035g1-ssd-256-hdd-1tb-ram-16gb-102068811-mp/p,LENOVO,12 meses,I5-1035G1,16 GB,Híbrido,,,Windows,14 Pulgadas,2.862.890
+https://www.exito.com/portatil-lenovo-thinkbook-plus-core-i5-10210u-8gb-256ssd-win-10-pro-2-pantallas-102243877-mp/p,LENOVO,12 meses,,8 GB,256 GB,,,Windows,13.3 Pulgadas,4.199.900
+https://www.exito.com/portatil-acer-aspire-amd-ryzen-5-5500u-ssd-256-ram-12gb-102078117-mp/p,ACER ASPIRE,12 meses,RYZEN 5 5500U,12 GB,256 GB,,,Windows,15.6 Pulgadas,2.408.550
+https://www.exito.com/portatil-lenovo-intel-core-i5-1035g1-hdd-1tb-ram-12gb-102071949-mp/p,LENOVO,12 meses,I5-1035G1,12 GB,Mecánico 1 TB,,,Windows,14 Pulgadas,2.504.800
+https://www.exito.com/portatil-lenovo-gaming-3i-11370h-8gb-ram-120hz-256-ssd-1-tb-hdd-gtx-1650-101629583-mp/p,LENOVO,3 meses,Intel Core i7 11370H,8 GB,Híbrido,GTX1650,4 GB,Windows 10,15.6 Pulgadas,4.599.000
+https://www.exito.com/portatil-hp-14-cf3037la-intel-core-i3-win10-antivirus-kaspersky-100727407-mp/p,HP,12 meses,Core i3-1005G1,4 GB,256 GB,,,Windows 10,14 Pulgadas,1.465.888
+https://www.exito.com/portatil-toshiba-tecra-a40-g-intel-core-i7-10610-256gb-ssd-8gb-14-pulgadas-fhd-freedos-102537146-mp/p,TOSHIBA,12 meses,Intel Core i7,8 GB,256 GB,,,Endless,14.1 pulgadas,3.199.900
+https://www.exito.com/portatil-gamer-hp-r5-4600h-12gb-512-ssd-1tb-mecanico-102117514-mp/p,HP,12 meses,,12 GB,Mecánico 500 GB,,,Windows,15 Pulgadas,3.852.800
+https://www.exito.com/portatil-asus-expertbook-b1440fa-core-i3-4gb-1tb-win10pro-101388676-mp/p,ASUS,12 meses,Intel Core i3,4 GB,Mecánico 1 TB,No Tiene Tarjeta de Video,,Windows 10 Pro,14 Pulgadas,2.290.000
+https://www.exito.com/portatil-dell-latitude-5430-core-i7-12gen-16gb-512gb-ssd-14-pulgadas-full-hd-w10-pro-102534442-mp/p,DELL,12 meses,,16 GB,512 GB,,,Windows,14 Pulgadas,7.999.999
+https://www.exito.com/portatil-lenovo-v14-are-ryzen-7-12gb-512ssd-windows-10-de-prueba-14-pulgadas-102350508-mp/p,LENOVO,12 meses,,8 GB,512 GB,,,FreeDos,14.1 pulgadas,2.697.888
+https://www.exito.com/portatil-lenovo-ip-3-14iml05-core-i3-10110u-pantalla-14-pulgadas-8gb-512gb-ssd-linux-gris-platino-102234844-mp/p,LENOVO,12 meses,,8 GB,512 GB,,,FreeDos,14 Pulgadas,1.680.000
+https://www.exito.com/portatil-acer-aspire-amd-ryzen-5-5500u-ssd-256-hdd-1tb-ram-16gb-102077032-mp/p,ACER ASPIRE,12 meses,RYZEN 5 5500U,16 GB,Híbrido,,,Windows,15 Pulgadas,2.643.100
+https://www.exito.com/portatil-lenovo-amd-ryzen-5-5500u-ssd-256-hdd-1tb-ram-16gb-102066741-mp/p,LENOVO,12 meses,AMD RYZEN 5 5500U,16 GB,Híbrido,,,Windows,14 Pulgadas,2.963.600
+https://www.exito.com/portatil-acer-584r-core-i5-10-8gb-gtx1650-4gb-win10-101918815-mp/p,ACER,12 meses,,8 GB,Mecánico 1 TB,,,Windows 10,15 Pulgadas,3.398.799
+https://www.exito.com/portatil-lenovo-thinkpad-x13-gen-1-ci5-10210u-8g-512ssd-w10pro20t3scl500-102531254-mp/p,LENOVO,12 meses,,8 GB,512 GB,,,Windows 10,13 Pulgadas,6.216.000
+https://www.exito.com/portatil-hp-amd-ryzen-5-5500u-ram-4gb4gb-ssd-256gb-102403355-mp/p,HP,12 meses,,8 GB,256 GB,,,FreeDos,14 Pulgadas,1.629.000
+https://www.exito.com/portatil-lenovo-v13014igm-celeron-4gb-1tb-14-pulgadas-100029403-mp/p,LENOVO,12 meses,,4 GB,Mecánico 1 TB,,,Linux,14 Pulgadas,999.000
+https://www.exito.com/portatil-hp-245-g8-amd-ryzen-5-5500u-16gb-256ssd-14-pulgadas-win-10-prueba-102251188-mp/p,HP,12 meses,Ryzen 5,16 GB,256 GB,,,Windows 10,14 Pulgadas,1.898.800
+https://www.exito.com/portatil-dell-15-3511-core-i7-1165g7-ram-16gb-ssd-512gb-win-10-156-fhd-102065780-mp/p,DELL,12 meses,INTEL CORE I7 1165G7,16 GB,512 GB,,,Windows 10,15.6 Pulgadas,3.766.499
+https://www.exito.com/portatil-gateway-ryzen-7-3700u-ram-8-gb-ssd-512gb-156-w11-azul-antivirus-102151563-mp/p,GATEWAY,12 meses,AMD Ryzen 7 3700U,8 GB,256 GB,,,Windows 11 Home,15.6 Pulgadas,2.489.900
+https://www.exito.com/portatil-chromebook-asus-c204-ram-4gb-116-pulgadas-disco64gb-102056287-mp/p,ASUS,12 meses,,4 GB,64 GB,,,Google Chrome Os,11.6 pulgadas,1.489.900
+https://www.exito.com/portatil-hp-core-i5-12gb-1tb-hdd-win1-home-con-tarjeta-de-video-mx350-102102349-mp/p,HP,3 meses,Intel Core i5-1135G7,12 GB,Híbrido,MX350,,Windows 10 Home,17.3 Pulgadas,2.479.900
+https://www.exito.com/portatil-lenovo-3-14alc6-14-pulgadas-ryzen5-8gb-1tb-freedos-azul-101557648-mp/p,LENOVO,12 meses,,8 GB,Mecánico 1 TB,,,FreeDos,14 Pulgadas,2.219.000
+https://www.exito.com/portatil-acer-aspire-amd-ryzen-5-5500u-ssd-1tb-hdd-1tb-ram-16gb-102078105-mp/p,ACER ASPIRE,12 meses,RYZEN 5 5500U,16 GB,Híbrido,,,Windows,15 Pulgadas,2.928.800
+https://www.exito.com/portatil-acer-i3-onceaba-8ram-256gb-156-fhd-102077387-mp/p,ACER,12 meses,I3,8 GB,256 GB,,,Windows,15 Pulgadas,1.713.400
+https://www.exito.com/portatil-lenovo-ideapad-gaming-3-ci5-11300h-8g-512-ssd-w11-h-102565605-mp/p,H LENOVO,12 meses,,8 GB,512 GB,GTX1650,4 GB,Windows,15.6 Pulgadas,4.162.500
+https://www.exito.com/portatil-lenovo-amd-ryzen-5-4500u-ssd-512-hdd-1tb-ram-16gb-102094498-mp/p,LENOVO,12 meses,RYZEN 5 4500U,16 GB,Híbrido,,,Windows 10,14 Pulgadas,2.802.400
+https://www.exito.com/portatil-acer-intel-dual-core-n4500-disco-hdd-1tb-ssd-256gb-ram-8gb-102071193-mp/p,ACER ASPIRE,12 meses,CELERON N4500,8 GB,Híbrido,,,Windows,14 Pulgadas,1.424.385
+https://www.exito.com/portatil-acer-i5-8gb-256ssd-1tb-mx-330-2gb-102101197-mp/p,ACER,12 meses,CORE  I5 1035G,8 GB,256 GB,,,Windows 10 HOME,15.6 Pulgadas,2.696.450
+https://www.exito.com/portatil-dell-vostro-3405-ryzen-5-3450u-ram-16gb-disco-solido-512gb-ubuntu-14-pulgadas-102389439-mp/p,DELL,12 meses,,16 GB,512 GB,,,Ubuntu,14.1 pulgadas,2.299.900
+https://www.exito.com/portatil-asus-m513ia-bq172-ryzen-7-4700u-8gb-512-ssd-endless-90nb0rr2-m000p0-102531241-mp/p,ASUS,12 meses,,8 GB,512 GB,,,Endless,16 Pulgadas,2.880.000
+https://www.exito.com/portatil-lenovo-gaming-3-156-core-i5-10300h-gtx-1650ti-8gb-ram-512-ssd-100742375-mp/p,LENOVO,3 meses,Intel Core i5 10300H,8 GB,256 GB,Tarjeta Gráfica NVIDIA,4 GB,Windows,15.6 Pulgadas,3.579.900
+https://www.exito.com/portatil-acer-aspire-intel-core-i5-10210u-ssd-1tb-hdd-1tb-ram-12gb-102071940-mp/p,ACER ASPIRE,12 meses,I5-10210U,12 GB,Híbrido,,,Windows,15 Pulgadas,2.889.200
+https://www.exito.com/portatil-dell-vostro-3400-core-i5-1135g7-20gb4gb16gb-1tb-250gb-14-102403335-mp/p,DELL,12 meses,CORE I5 1135G7,20 GB,Híbrido,,,UBUNTU,14 Pulgadas,2.179.000
+https://www.exito.com/portatil-lenovo-amd-ryzen-5-5500u-ssd-1tb-hdd-1tb-ram-16gb-102066752-mp/p,LENOVO,12 meses,AMD RYZEN 5 5500U,16 GB,Híbrido,,,Windows,14 Pulgadas,3.230.960
+https://www.exito.com/portatil-acer-gateway-ultra-slim-ryzen-7-8gb-512gb-ssd-w11-156-fhd-102079319-mp/p,GATEWAY,12 meses,AMD Ryzen 7 3700U,8 GB,512 GB,,,Windows 11,15.6 Pulgadas,2.309.900
+https://www.exito.com/portatil-acer-aspire-amd-ryzen-5-5500u-ssd-256-ram-8gb-102078106-mp/p,ACER ASPIRE,12 meses,RYZEN 5 5500U,8 GB,256 GB,,,Windows,15.6 Pulgadas,2.331.900
+https://www.exito.com/portatil-dell-vostro-v3405-ryzen-5-3450u-8gb-256-ssd-ubuntu-yg53w-102531251-mp/p,DELL,12 meses,,8 GB,256 GB,,,Ubuntu,14.1 pulgadas,1.799.000
+https://www.exito.com/portatil-msi-katana-gf66-11uc-896xsp-ci5-11400h-8g-512-ssd-linux-9s7-158212-896-102537368-mp/p,MSI,12 meses,,8 GB,512 GB,,,Linux,15.6 Pulgadas,5.772.000
+https://www.exito.com/portatil-lenovo-thinkpad-l14-gen-1-ci5-10310u-8g-256-ssd-w10-pro-20u2s9sr00-102531255-mp/p,LENOVO,12 meses,,8 GB,256 GB,,,Windows,14.1 pulgadas,5.106.000
+https://www.exito.com/portatil-lenovo-intel-core-i5-1035g1-ssd-512-hdd-1tb-ram-12gb-102071961-mp/p,LENOVO,12 meses,I5-1035G1,12 GB,Híbrido,,,Windows,14 Pulgadas,2.790.000
+https://www.exito.com/portatil-acer-aspire-amd-ryzen-5-5500u-ssd-256-ram-16gb-102078108-mp/p,ACER ASPIRE,12 meses,RYZEN 5 5500U,16 GB,256 GB,,,Windows,15.6 Pulgadas,2.482.800
+https://www.exito.com/portatil-lenovo-ideapad-amd-ryzen-3-4300u-ssd-512-ram-8gb-102127311-mp/p,LENOVO,12 meses,RYZEN 3 4300U,8 GB,512 GB,,,Windows 10,14 Pulgadas,1.897.200
+https://www.exito.com/portatil-hp-probook-430-g7-ci7-10510u-8gb-256-ssd-w10-pro-8zn68lt-102531238-mp/p,HP,12 meses,,8 GB,256 GB,,,Windows 10,14.1 pulgadas,5.494.500
+https://www.exito.com/portatil-acer-gateway-pentium-n5030-ram-4gb-ssd-128gb156-fhd-win-10-verde-102007165-mp/p,GATEWAY,12 meses,Intel Pentium Silver N5030,4 GB,128 GB,,,Windows 10,15.6 Pulgadas,1.259.900
+https://www.exito.com/portatil-lenovo-amd-ryzen-5-5500u-hdd-1tb-ram-8gb-con-huella-102066756-mp/p,LENOVO,12 meses,AMD RYZEN 5 5500U,8 GB,Mecánico 1 TB,,,Windows,14 Pulgadas,2.514.630
+https://www.exito.com/portatil-lenovo-intel-core-i5-1035g1-hdd-1tb-ram-20gb-102071943-mp/p,LENOVO,12 meses,I5-1035G1,20 GB,Mecánico 1 TB,,,Windows,14 Pulgadas,2.728.000
+https://www.exito.com/macbook-pro-chip-m1-pro-de-apple-con-cpu-de-diez-nucleos-512-gb-ssd-16-102336639-mp/p,APPLE,12 meses,,16 GB,512 GB,,,Mac Os X,16 Pulgadas,12.699.000
+https://www.exito.com/portatil-acer-gateway-pentium-n5030-ram-4gb-ssd-128gb156-fhd-win-10-azul-102007175-mp/p,GATEWAY,12 meses,Intel Pentium Silver N5030,4 GB,128 GB,,,Windows 10,15.6 Pulgadas,1.259.900
+https://www.exito.com/portatil-corporativo-dell-vostro-3405-ryzen-5-3450u-ram-8gb-disco-solido-256gb-win-10-pro-14-pulgadas-102389408-mp/p,DELL,12 meses,,8 GB,256 GB,,,Windows 10,14.1 pulgadas,2.199.900
+https://www.exito.com/portatil-lenovo-intel-core-i5-1035g1-ssd-1tb-hdd-1tb-ram-12gb-102071954-mp/p,LENOVO,12 meses,I5-1035G1,12 GB,Híbrido,,,Windows,14 Pulgadas,2.976.000
+https://www.exito.com/portatil-asus-m415da-bv797t-ryzen-3-3250u-4gb-256-ssd-w10-h-90nb0t32-m10800-102535803-mp/p,ASUS,12 meses,,4 GB,256 GB,,,Windows 10,14.1 pulgadas,1.648.350
+https://www.exito.com/portatil-hp-15-core-i7-1165g7-ram-8gb-disco-ssd256gb-windows-11-102155199-mp/p,HP,12 meses,Intel Core i7-1165G7 de 11,8 GB,256 GB,,,Windows 11 Home,15.6 Pulgadas,3.609.900
+https://www.exito.com/portatil-acer-gateway-core-i3-1115g4-11-gen-ram-4gb-ssd-128gb-w10-141-fhd-azul-101992849-mp/p,GATEWAY,12 meses,Intel Core i3-1115G4 de 11,4 GB,128 GB,,,Windows 10,14 Pulgadas,1.379.900
+https://www.exito.com/portatil-lenovo-amd-ryzen-5-5500u-ssd-1tb-hdd-1tb-ram-20gb-102039217-mp/p,LENOVO,12 meses,,16 GB,Híbrido,,,Windows,14 Pulgadas,3.298.400
+https://www.exito.com/portatil-lenovo-s34014iil-core-i3-1005g1-4gb-256gbssd-win10-101394479-mp/p,LENOVO,12 meses,,4 GB,256 GB,,,Windows 10,14 Pulgadas,1.499.900
+https://www.exito.com/lenovo-v14ada-3150u-4gb-128gb-101373523-mp/p,LENOVO,12 meses,AMD Athlon Gold,4 GB,128 GB,,2 GB,Windows 10 PRO NAO,14.1 pulgadas,1.399.900
+https://www.exito.com/portatil-lenovo-intel-core-i5-1035g1-ssd-512-hdd-1tb-ram-20gb-102071960-mp/p,LENOVO,12 meses,I5-1035G1,20 GB,Híbrido,,,Windows,14 Pulgadas,3.013.200
+https://www.exito.com/portatil-dell-vostro-v3-3400-intel-core-i5-1135g71-tb-4gb-14-pulgadas-hd-windows-10-pro-102537155-mp/p,DELL,12 meses,intel core i5,4 GB,Mecánico 1 TB,,,Windows 11 pro,14.1 pulgadas,2.354.720
+https://www.exito.com/portatil-acer-aspire-amd-ryzen-5-5500u-ssd-512-hdd-1tb-ram-8gb-102077444-mp/p,ACER ASPIRE,12 meses,RYZEN 5 5500U,8 GB,Híbrido,,,Windows,15 Pulgadas,2.587.800
+https://www.exito.com/portatil-lenovo-ideapad-amd-ryzen-3-4300u-ssd-512-hdd-1tb-ram-8gb-102100234-mp/p,LENOVO,12 meses,RYZEN 3 4300U,8 GB,Híbrido,,,Windows 10,14 Pulgadas,2.021.200
+https://www.exito.com/portatil-acer-aspire-amd-ryzen-5-5500u-ssd-1tb-hdd-1tb-ram-12gb-102078111-mp/p,ACER ASPIRE,12 meses,RYZEN 5500U,12 GB,Híbrido,,,Windows,15 Pulgadas,2.860.800
+https://www.exito.com/portatil-lenovo-ideapad-3-ryzen-3-4gb-128gb-win10home-cherry-red-100892471-mp/p,LENOVO,12 meses,,4 GB,128 GB,,,Windows 10,15.6 Pulgadas,1.619.900
+https://www.exito.com/portatil-asus-x415ea-ek1183-ci5-1135g7-8gb-256-ssd-endless-102155200-mp/p,ASUS,12 meses,Intel Core i5-1165G7 de 11,8 GB,256 GB,,,Endless,14 Pulgadas,1.897.900
+https://www.exito.com/portatil-acer-aspire-intel-core-i5-10210u-ssd-256-hdd-1tb-ram-20gb-102071198-mp/p,ACER ASPIRE,12 meses,I5-10210U,20 GB,Híbrido,,,Windows,15 Pulgadas,2.839.600
+https://www.exito.com/portatil-lenovo-amd-ryzen-5-4500u-ssd-1tb-hdd-1tb-ram-8gb-102094492-mp/p,LENOVO,12 meses,RYZEN 5 4500U,8 GB,Híbrido,,,Windows 10,14 Pulgadas,2.703.200
+https://www.exito.com/portatil-lenovo-amd-ryzen-5-4500u-ssd-1tb-hdd-1tb-ram-16gb-102094499-mp/p,LENOVO,12 meses,RYZEN 5 4500U,16 GB,Híbrido,,,Windows 10,14 Pulgadas,2.985.849
+https://www.exito.com/portatil-lenovo-intel-core-i5-1035g1-ssd-256-hdd-1tb-ram-20gb-102068801-mp/p,LENOVO,12 meses,I5-1035G1,20 GB,Híbrido,,,Windows,14 Pulgadas,2.926.400
+https://www.exito.com/portatil-lenovo-intel-core-i5-1035g1-ssd-512-hdd-1tb-ram-8gb-102071957-mp/p,LENOVO,12 meses,I5-1035G1,8 GB,Híbrido,,,Windows,14 Pulgadas,2.703.200
+https://www.exito.com/portatil-dell-inspiron-14-3493-core-i3-1005g1-ram-8gb-ssd-256gb-14-101440620-mp/p,DELL,12 meses,Intel Corei3-1005G1 1,8 GB,256 GB,,,Windows 10,14.1 pulgadas,2.039.900
+https://www.exito.com/portatil-lenovo-amd-ryzen-5-4500u-ssd-1tb-hdd-1tb-ram-12gb-102094495-mp/p,LENOVO,12 meses,RYZEN 5 4500U,12 GB,Híbrido,,,Windows 10,14 Pulgadas,2.822.890
+https://www.exito.com/portatil-hp-245-g7-amd-3020e-8gb-1tb-linux-licencia-kaspersky-101536412-mp/p,HP,12 meses,,8 GB,Mecánico 1 TB,,,Linux,14 Pulgadas,990.000
+https://www.exito.com/portatil-lenovo-amd-ryzen-5-5500u-ssd-512-hdd-1tb-ram-16gb-102034372-mp/p,LENOVO,12 meses,,16 GB,Híbrido,,,Windows,14 Pulgadas,3.043.985
+https://www.exito.com/portatil-acer-aspire-amd-ryzen-5-5500u-ssd-256-hdd-1tb-ram-12gb-102077026-mp/p,ACER ASPIRE,12 meses,RYZEN 5 5500U,12 GB,Híbrido,,,Windows,15 Pulgadas,2.575.100
+https://www.exito.com/portatil-lenovo-amd-ryzen-5-5500u-ssd-512-hdd-1tb-ram-12gb-102034371-mp/p,LENOVO,12 meses,,12 GB,Híbrido,,,Windows,14 Pulgadas,2.883.010
+https://www.exito.com/portatil-acer-aspire-amd-ryzen-5-5500u-ssd-256-hdd-1tb-ram-20gb-102077025-mp/p,ACER ASPIRE,12 meses,RYZEN 5 5500U,20 GB,Híbrido,,,Windows,15 Pulgadas,2.699.200
+https://www.exito.com/portatil-lenovo-amd-ryzen-5-4500u-ssd-512-hdd-1tb-ram-8gb-102094488-mp/p,LENOVO,12 meses,RYZEN 5 4500U,8 GB,Híbrido,,,Windows 10,14 Pulgadas,2.517.200
+https://www.exito.com/portatil-acer-aspire-amd-ryzen-5-5500u-ssd-256-hdd-1tb-ram-8gb-102077039-mp/p,ACER ASPIRE,12 meses,RYZEN 5 5500U,8 GB,Híbrido,,,Windows,15 Pulgadas,2.488.200
+https://www.exito.com/portatil-lenovo-thinkbook-14-gen-3-ryzen-5-5500u-8g-512-ssd-w10-pro-21a2008mlm-102529102-mp/p,LENOVO,12 meses,,8 GB,512 GB,,,Windows 10,14.1 pulgadas,4.940.000
+https://www.exito.com/portatil-lenovo-intel-core-i5-1035g1-ssd-256-hdd-1tb-ram-8gb-102071975-mp/p,LENOVO,12 meses,I5-1035G1,8 GB,Híbrido,,,Windows,14 Pulgadas,2.616.400
+https://www.exito.com/portatil-lenovo-3-ryzen-5-5500u-ram-8gb-ssd-256gb-win-10-fhd-14-pulgadas-azul-101934588-mp/p,LENOVO,12 meses,RYZEN 5 5500U,8 GB,256 GB,,,Windows 10,14.1 pulgadas,1.999.900
+https://www.exito.com/portatil-lenovo-intel-core-i5-1035g1-ssd-1tb-hdd-1tb-ram-20gb-102071942-mp/p,LENOVO,12 meses,I5-1035G1,20 GB,Híbrido,,,Windows,14 Pulgadas,3.199.200
+https://www.exito.com/portatil-dell-core-i3-1115g4-8gb-1tb-256gb-ssd-diadema-102117527-mp/p,DELL,12 meses,,8 GB,Mecánico 1 TB,,,Windows 10,15 Pulgadas,1.720.900
+https://www.exito.com/portatil-lenovo-v14-iil-intel-core-i3-4gb-1tb-14-pulgadas-win-10-pro-102002492-mp/p,LENOVO,12 meses,Intel Core i3-1005G1,4 GB,Mecánico 1 TB,,,Windows 10 Pro 64,14.1 pulgadas,2.275.000
+https://www.exito.com/portatil-dell-inspiron-14-3493-core-i3-1005g1-ram-8gb-ssd-128gb-14-101435380-mp/p,DELL,12 meses,Intel Corei3-1005G1 1,8 GB,128 GB,,,Windows 10,14.1 pulgadas,1.859.900
+https://www.exito.com/portatil-lenovo-3-14are05-ryzen-5-4500u-ram-4gb-ssd-256gb-freedos-14-pulgadas-hd-azul-101764052-mp/p,LENOVO,12 meses,RYZEN 5 4500U,4 GB,256 GB,,,Sin Sistema Operativo,14 Pulgadas,2.395.000
+https://www.exito.com/portatil-acer-gateway-core-i3-1115g4-11-gen-ram-4gb-ssd-128gb-w10-141-fhd-verde-101992864-mp/p,GATEWAY,12 meses,Intel Core i3-1115G4 de 11,4 GB,128 GB,,,Windows 10,14 Pulgadas,1.379.900
+https://www.exito.com/portatil-lenovo-amd-ryzen-5-4500u-ssd-512-hdd-1tb-ram-20gb-102094489-mp/p,LENOVO,12 meses,RYZEN 5 4500U,20 GB,Híbrido,,,Windows 10,14 Pulgadas,2.864.400
+https://www.exito.com/portatil-dynabook-tecra-a40-g-celeron5205-4gb-128ssd-w10h-102430140-mp/p,DYNABOOK,12 meses,Celeron,4 GB,128 GB,,,Windows 10,14.1 pulgadas,1.110.000
+https://www.exito.com/portatil-lenovo-amd-ryzen-5-5500u-ssd-1tb-hdd-1tb-ram-12gb-102039206-mp/p,LENOVO,12 meses,,12 GB,Híbrido,,,Windows,14 Pulgadas,3.075.200
+https://www.exito.com/portatil-acer-aspire-amd-ryzen-5-5500u-ssd-512-hdd-1tb-ram-20gb-102077037-mp/p,ACER ASPIRE,12 meses,RYZEN 5 5500U,20 GB,Híbrido,,,Windows,15 Pulgadas,2.798.800
+https://www.exito.com/portatil-lenovo-amd-ryzen-5-5500u-ssd-512-hdd-1tb-ram-8gb-102039213-mp/p,LENOVO,12 meses,,8 GB,Híbrido,,,Windows,14 Pulgadas,2.800.750
+https://www.exito.com/portatil-dell-inspiron-14-3493-core-i3-1005g1-ram-12gb-ssd-128gb-14-101435573-mp/p,DELL,12 meses,Intel Corei3-1005G1 1,12 GB,128 GB,,,Windows 10,14.1 pulgadas,2.049.900
+https://www.exito.com/portatil-acer-aspire-amd-ryzen-5-5500u-ssd-1tb-hdd-1tb-ram-8gb-102078120-mp/p,ACER ASPIRE,12 meses,RYZEN 5 5500U,8 GB,Híbrido,,,Windows,15.6 Pulgadas,2.773.800
+https://www.exito.com/portatil-hp-245-g8-amd-ryzen-3-3250u-256ssd-16gb-14-pulgadas-linux-102254818-mp/p,HP,12 meses,ryzen 3,16 GB,256 GB,,,Linux,14 Pulgadas,1.379.900
+https://www.exito.com/portatil-dell-3515-ryzen-5-3450u-vega8-12gb-ram-256gbssd-1tb-hdd-102096016-mp/p,DELL,12 meses,Ryzen 5 3450U,12 GB,Híbrido,,,Ubuntu,15.6 Pulgadas,2.018.418
+https://www.exito.com/portatil-corporativo-hp-245-g8-amd-ryzen-5-5500u-ram-12gb-1terassd256gb-14-pulgadas-win-10-pro-102389425-mp/p,HP,12 meses,,12 GB,Híbrido,,,Windows 10,14.1 pulgadas,2.299.390
+https://www.exito.com/portatil-asus-k513ea-bq2213-core-i7-12-gb-ssd-512gb-156-pulgadas-fhd-endless-102119552-mp/p,ASUS,12 meses,,12 GB,512 GB,,,Endless,15.6 Pulgadas,3.648.888
+https://www.exito.com/lenovo-thinkpad-e495-amd-ryzen-3-3200u-4gb-1tb-14-win-10-pro-101828184-mp/p,LENOVO,12 meses,,4 GB,Mecánico 500 GB,,,Windows,14.1 pulgadas,2.221.900
+https://www.exito.com/portatil-hp-14-intel-core-i5-1135g7-4gb-256gb-102554693-mp/p,HP,12 meses,Intel Core i5,4 GB,256 GB,,,FreeDos,14 Pulgadas,1.599.900
+https://www.exito.com/portatil-gamer-hp-r5-4600h-16gb-1tb-ssd-102117508-mp/p,HP,12 meses,,16 GB,Mecánico 1 TB,,,Windows,15 Pulgadas,4.233.600
+https://www.exito.com/portatil-dell-3400-i5-1135g7-ram-8gb-ram-256gb-ssd-1tb-hdd-14-pulgadas-hd-102193415-mp/p,DELL,12 meses,,8 GB,Híbrido,,,Linux,14 Pulgadas,1.999.990
+https://www.exito.com/portatil-hp-240-g8-ici5-8gb-1tb-hdd14-pulgadas-win-10-pro-102161262-mp/p,HP,12 meses,,8 GB,Mecánico 500 GB,,,Windows,14 Pulgadas,2.399.900
+https://www.exito.com/portatil-toshiba-tecra-a40-g-intel-core-i7-10610-256gb-ram-8gb-windows-10-pro-102396782-mp/p,TOSHIBA,12 meses,,8 GB,256 GB,,,Windows,14.1 pulgadas,3.759.900
+https://www.exito.com/laptop-hp-14-dq2504la-intel-core-i3-8-gb-512-gb-ssd-14-hd-windows-11-home-single-language-102482651-mp/p,HP,12 meses,Intel Core i3-1115G4,8 GB,512 GB,,,Windows 11 Home Single Language,14 Pulgadas,2.059.900
+https://www.exito.com/portatil-hp-245-g8-amd-ryzen-5-5500u-1-tb-ram-4gb-14-pulgadas-hd-windows-10-pro-102396769-mp/p,HP,12 meses,,4 GB,1000 GB,,,Windows,14.1 pulgadas,2.228.000
+https://www.exito.com/portatil-asus-tuf-fx506lh-hn002-corei5-8gb-ram-512gb-ssd-156-pulgadas-fhd-144hz-102102182-mp/p,ASUS,12 meses,Corei5 10300H,8 GB,512 GB,GTX1650,4 GB,Endless,15.6 Pulgadas,3.649.000
+https://www.exito.com/portatil-dell-inspiron-15-3501-core-i3-1115g4-8gbram256gbssd1tb-hdd156-pulgadas-hd-102193416-mp/p,DELL,12 meses,,8 GB,Híbrido,,,Linux,15.6 Pulgadas,1.699.000
+https://www.exito.com/portatil-asus-x409-intel-celeron-n4020-4gb-1tb-endless-gris-100726754-mp/p,ASUS,12 meses,,4 GB,Mecánico 1 TB,,,Endless,14 Pulgadas,859.800
+https://www.exito.com/apple-macbook-pro-retina-16-mk1h3ea-m1-max-32gb-1tb-mac-os-2021-102537361-mp/p,APPLE,12 meses,,32 GB,Disco sólido 1TB,,,Mac Os,16 Pulgadas,17.459.000
+https://www.exito.com/dell-latitud-3420-intel-core-i7-1165g7-ssd-512gb-8gb-14-pulgadas-hd-windows-11-pro-102564569-mp/p,DELL,12 meses,Intel core i7,8 GB,512 GB,,,Windows,14.1 pulgadas,5.599.000
+https://www.exito.com/notebook-ideapad-3-15itl6-ci7-8gb-128gb-ssd1tbvideo-2gb-102525578-mp/p,LENOVO,12 meses,Core i7-1165G7,8 GB,128 GB,,2 GB,FreeDos,15.6 Pulgadas,3.599.900
+https://www.exito.com/portatil-janus-core-i5-8259u-ram-8gb-ssd-256gb-lcd-14-pulgadas-102073974-mp/p,JANUS,12 meses,,8 GB,256 GB,,,Windows,14.1 pulgadas,1.493.000
+https://www.exito.com/dell-vostro-14-r5-3450-ram-16gb-ssd-256gb-1tb-hdd-140-hd-102548339-mp/p,HP,12 meses,RYZEN 5 3450U,16 GB,256 GB,,,UBUNTU,14.1 pulgadas,2.099.950
+https://www.exito.com/portatil-asus-b1400ceae-bv5242r-14-pulgadas-core-i7-8-gb-512-gb-ssd-win10-pro-102211082-mp/p,ASUS,12 meses,,8 GB,512 GB,,,Windows 10,14.1 pulgadas,5.049.888
+https://www.exito.com/portatil-hp-240-g8-core-i5-1135g7-8gb-1tb-14-win-10-pro-101962289-mp/p,HP,12 meses,Intel Core i5-1135G7,8 GB,Mecánico 500 GB,,,Windows 10 Pro,14.1 pulgadas,2.638.000
+https://www.exito.com/portatil-lenovo-thinkpad-e14-gen2-ci5-1135g7-8g-512gb-ssdw10-pro-20tbs2c100-102531244-mp/p,LENOVO,12 meses,,8 GB,256 GB,,,Windows,14.1 pulgadas,5.772.000
+https://www.exito.com/portatil-hp-245g7-amd-3020e-102411525-mp/p,HP,12 meses,,4 GB,Mecánico 1 TB,,,FreeDos,14.1 pulgadas,1.090.000
+https://www.exito.com/portatil-dell-corei5-1135g7-8gb-ram-1tb-hdd-14-pulgadas-vostro-3400-102558836-mp/p,DELL,12 meses,,8 GB,Mecánico 1 TB,,,Ubuntu,14 Pulgadas,1.794.900
+https://www.exito.com/portatil-hp-245-g8-amd-ryzen-5-5500u-4gb-1tb-win-10-pro-102054590-mp/p,HP,12 meses,,4 GB,Mecánico 500 GB,,,Windows,14.1 pulgadas,1.848.980
+https://www.exito.com/portatil-lenovo-ideapad-1-14ada7-amd-athlon-silver-3050u-14-pulgadas-hd-memoria-8gb-gris-102485392-mp/p,LENOVO,12 meses,,8 GB,256 GB,,,Linux,14 Pulgadas,1.198.998
+https://www.exito.com/portatil-asus-expertbook-intel-ci3-10110u-8gb-ram-dd-1tb-windows-14-pulgadas-101846487-mp/p,ASUS,12 meses,Intel Ci3-10110U,8 GB,Mecánico 1 TB,,,Windows 10,14.1 pulgadas,1.699.000
+https://www.exito.com/portatil-acer-a515-54-31um-fhd-ci3-10110u-156-8ram2556ssdwindows-10-home-color-black-101949339-mp/p,ACER,12 meses,,8 GB,256 GB,,,Windows 10,15 Pulgadas,1.749.900
+https://www.exito.com/portatil-dynabook-portege-x30l-j1337-core-i7-1165g7-512gb-ssd-16gb-102420946-mp/p,DYNABOOK,12 meses,,16 GB,512 GB,,,Windows 10,13.3 Pulgadas,8.566.000
+https://www.exito.com/portatil-lenovo-3-ryzen-5-5500u-ram-12gb-ssd-256gb-win-10-fhd-14-pulgadas-azul-101934583-mp/p,LENOVO,12 meses,RYZEN 5 5500U,12 GB,500 GB,,,Windows 10,14.1 pulgadas,2.129.900
+https://www.exito.com/portatil-asus-k513ea-bq1796-core-i5-1135g7-12gb-512gb-linux-102119553-mp/p,ASUS,12 meses,,8 GB,512 GB,,,Linux,15.6 Pulgadas,2.499.800
+https://www.exito.com/portatil-ideapad-lenovo-gaming-3-amd-ryzen7-1tb-hdd128gb-ssd-8gb-ram-102735747-mp/p,LENOVO,12 meses,,8 GB,256 GB,,,Windows,15.6 Pulgadas,3.709.000
+https://www.exito.com/portatil-hp-245-g8-amd-ryzen-3-3250u-256ssd-12gb-14-pulgadas-linux-102254814-mp/p,HP,12 meses,ryzen 3,12 GB,256 GB,,,Linux,14 Pulgadas,1.329.900
+https://www.exito.com/portatil-hp-245-g8-amd-ryzen-5-5500u-12gb-256ssd-14-pulgadas-win-10-prueba-102251187-mp/p,HP,12 meses,Ryzen 5,12 GB,256 GB,,,Windows 10,14 Pulgadas,1.788.800
+https://www.exito.com/portatil-evoo-intel-core-i7-8gb-ram-256gb-ssd-w10-fhd-156-azul-101632388-mp/p,EVOO,12 meses,Intel Core,8 GB,256 GB,,,Windows 10 Home,15.6 Pulgadas,2.599.000
+https://www.exito.com/portatil-dynabook-portege-x40-j1431-core-i5-1135g7-256gb-ssd-8gb-102420936-mp/p,DYNABOOK,12 meses,,8 GB,256 GB,,,Windows 10,14 Pulgadas,3.099.900
+https://www.exito.com/portatil-dell-vostro-14-3405-amd-ryzen5-8gb-256gb-ssd-ubuntu-101797730-mp/p,DELL,12 meses,,8 GB,256 GB,,,Ubuntu,14 Pulgadas,1.578.999
+https://www.exito.com/portatil-lenovo-v14-intel-core-i31005g1-4-gb-1-tb-freedos-101037962-mp/p,LENOVO,12 meses,Intel Core i3-1005G1,4 GB,256 GB,,,FreeDos,14.1 pulgadas,1.299.000
+https://www.exito.com/portatil-acer-aspire-3-a314-ryzen-3-3250u-4gb-1tb-14-freedos-101549119-mp/p,ACER,12 meses,AMD RYZEN 3 3250U,4 GB,Mecánico 1 TB,,,Linux,14.1 pulgadas,1.219.000
+https://www.exito.com/portatil-asus-m1502-ryzen-5-4600h-ram-88gb-ssd-512gb-lector-de-huella-endless-102414634-mp/p,ASUS,12 meses,,16 GB,512 GB,,,Linux,15.6 Pulgadas,2.484.900
+https://www.exito.com/portatil-lenovo-idea-3-14itl6-core-i3-11va-4gb-1tb-free-dos-101743254-mp/p,LENOVO,12 meses,Core i3,4 GB,Mecánico 1 TB,,,FreeDos,14 Pulgadas,1.629.000
+https://www.exito.com/portatil-asus-x415ja-ek483t-intel-core-i3-1005g1-windows-10-101702680-mp/p,ASUS,12 meses,,4 GB,Mecánico 1 TB,,,Windows 10,14 Pulgadas,1.649.900
+https://www.exito.com/portatil-asus-f415ea-core-i5-1135g7-11gen-ram-8gb-ssd-256gb-win-10-101992852-mp/p,ASUS,12 meses,Intel Core i5-1135G7 2,8 GB,256 GB,,,Windows 10,14.1 pulgadas,2.399.900
+https://www.exito.com/portatil-acer-aspire-3-ryzen-3-12gb-ram-ssd-512-pantalla-14-pulgadas-102595808-mp/p,ACER,12 meses,,12 GB,512 GB,,,Windows,14.1 pulgadas,2.259.000
+https://www.exito.com/portatil-asus-um425qa-ki198-ryzen-5-5600h-8gb-512-ssd-endless-90nb0tv1-m006d0-102537369-mp/p,ASUS,12 meses,,8 GB,512 GB,,,Endless,14.1 pulgadas,3.748.999
+https://www.exito.com/9809-aio-hp-22-dd2016la-intel-core-i3-1215u-ssd-256gb-8gb-215-pulgadas-fhd-ips-102564568-mp/p,HP,12 meses,intel core i3,8 GB,256 GB,,,FreeDos,21.5 Pulgadas,1.889.995
+https://www.exito.com/portatil-asus-x415ja-eb1361-core-i5-1035g1-8gb-256gb-linux-102064588-mp/p,ASUS,12 meses,Intel Core i5 1035G1,8 GB,256 GB,,,Linux,14.1 pulgadas,2.564.000
+https://www.exito.com/workstation-hp-zbook-firefly-14-g8-intel-core-i7-ram-8-gb-102104321-mp/p,HP,12 meses,,8 GB,512 GB,,,Windows 10,14.1 pulgadas,8.990.000
+https://www.exito.com/portatil-evoo-gaming-core-i5-10300h-pn-eg-lp10-bk-102411533-mp/p,EVOO,12 meses,,8 GB,256 GB,,,Windows 10,15 Pulgadas,4.200.000
+https://www.exito.com/hp-245-g8-amd-ryzen-3-3250u-256ssd-8gb-14-pulgadas-linux-102097054-mp/p,HP,12 meses,,8 GB,256 GB,,,Linux,14.1 pulgadas,1.365.900
+https://www.exito.com/hp-245-g8-ryzen-3-5300u-ram-16gb-ssd-256gb-140-102634424-mp/p,HP,12 meses,RYZEN 3 5300U,16 GB,256 GB,,,UBUNTU,14.1 pulgadas,1.538.900
+https://www.exito.com/portatil-asus-x415ea-corei3-11va-8gb-ram-256gb-ssd-14-pulgadas-hd-102096017-mp/p,ASUS,12 meses,Corei3 11va,8 GB,256 GB,,,Endless,14 Pulgadas,1.589.000
+https://www.exito.com/portatil-hp-245-g8-amd-ryzen-3-3250u-ram-8gb-ssd-256-gb-102057617-mp/p,HP,12 meses,ryzen 3,8 GB,256 GB,,,linux,14 Pulgadas,1.399.900
+https://www.exito.com/portatil-asus-m515da-amd-ryzen-5-3500u-ssd-1tb-hdd-1tb-ram-16gb-102140526-mp/p,ASUS,12 meses,RYZEN 5 3500U,16 GB,Híbrido,,,Windows 10,15.6 Pulgadas,2.445.000
+https://www.exito.com/portatil-dell-inspiron-15-3505-ryzen-5-3450u-ram-8gb-ssd-256gb-pantalla-156-hd-win-10-101252436-mp/p,DELL,12 meses,Ryzen 5 3450U,8 GB,256 GB,,,Windows 10 Home,15.6 Pulgadas,1.999.000
+https://www.exito.com/portatil-dell-inspiron-amd-ryzen-5-3450u-ssd-512-hdd-1tb-ram-16gb-102104187-mp/p,DELL,12 meses,RYZEN 5 3450U,16 GB,Híbrido,,,Windows 10,15.6 Pulgadas,2.629.970
+https://www.exito.com/portatil-asus-x415ea-eb221-core-i3-1115g4-256-ssd-4-gb-ram-endless-102004030-mp/p,ASUS,12 meses,INTEL CORE I3-1115G4,4 GB,256 GB,,,Endless,14.1 pulgadas,1.499.800
+https://www.exito.com/producto-mejorado-computador-dell-core-i3-1115g4-12gb-ssd-256-gb-1tb-hdd-156-pulgadas-inspiron-15-3511-102589580-mp/p,DELL,12 meses,,12 GB,Híbrido,,,Ubuntu,15.6 Pulgadas,1.659.900
+https://www.exito.com/portatil-dell-inspiron-amd-ryzen-5-3450u-ssd-256-hdd-1tb-ram-12gb-102102882-mp/p,DELL,12 meses,RYZEN 5 3450U,12 GB,Híbrido,,,Windows 10,15.6 Pulgadas,2.459.970
+https://www.exito.com/hp-14-fq1051la-ryzen-3-5300u-ram-12gb-ssd-256gb-140-hd-102525592-mp/p,HP,12 meses,RYZEN 3 5300,12 GB,256 GB,,,FreeDos,14.1 pulgadas,1.680.000
+https://www.exito.com/portatil-dynabook-x30l-k1337-core-i7-1260p-512gb-ssd-16gb-102420944-mp/p,DYNABOOK,12 meses,,16 GB,Mecánico 500 GB,,2 GB,Windows 10,13.3 Pulgadas,5.999.990
+https://www.exito.com/portatil-asus-fa506qm-hn008-ryzen-7-5800h-16gb-512-ssd-endless-90nr0607-m002d0-102548530-mp/p,ASUS,12 meses,,16 GB,512 GB,,,Endless,16 Pulgadas,7.326.000
+https://www.exito.com/portatil-hp-14-dk1020la-amd-athlon-4gb-256gb-ssd-freedos-101743265-mp/p,HP,12 meses,,4 GB,256 GB,,,FreeDos,14 Pulgadas,1.099.900
+https://www.exito.com/portatil-asus-m415da-bv797t-ryzen3-3250u-256ssd-4gb-ram-windows10-101994405-mp/p,ASUS,12 meses,RYZEN 3-3250U,4 GB,256 GB,,,Windows,14.1 pulgadas,1.419.900
+https://www.exito.com/portatil-dell-inspiron-amd-ryzen-5-3450u-ssd-256-ram-20gb-102104179-mp/p,DELL,12 meses,RYZEN 5 3450U,20 GB,256 GB,,,Windows 10,15.6 Pulgadas,2.489.870
+https://www.exito.com/portatil-hp-14-cf2506la-cel-n4020-4gb-128-ssd-w10-h-482q3la-102541756-mp/p,HP,12 meses,,4 GB,128 GB,,,Windows 10,14.1 pulgadas,1.098.900
+https://www.exito.com/portatil-gamer-acer-nitro-core-i5-11400h-156-pulg-144-hz-8gb-512gb-ssd-rtx-3050-windows-10-102750782-mp/p,ACER,12 meses,Intel Core i5-11400H,8 GB,512 GB,RTX 3050,4 GB,Windows 10,15.6 Pulgadas,4.799.900
+https://www.exito.com/portatil-asus-m515da-bq1415-ryzen-5-8gb-1tb-156-fhd-endless-102122578-mp/p,ASUS,12 meses,RYZEN 5-3500U,8 GB,Mecánico 1 TB,,,Endless,15.6 Pulgadas,1.649.000
+https://www.exito.com/portatil-dell-vostro-3405-ryzen-5-8gb-ram-256-gb-ssd-1tb-hdd-14-pulgadas-hd-102218933-mp/p,DELL,12 meses,,12 GB,Híbrido,,,Linux,14 Pulgadas,1.999.000
+https://www.exito.com/portatil-dell-g15-gaming-ryzen-7-5800h-512gb-8gb-156-win11-nvidia-rtx-3050ti-4gb-phantom-grey-102723677-mp/p,DELL,12 meses,,8 GB,512 GB,,,Windows,15.6 Pulgadas,5.299.000
+https://www.exito.com/portatil-lenovo-ips1340-14iil-core-i3-4gb-ram-256-almacenamiento-101535904-mp/p,LENOVO,12 meses,Intel Core I3,4 GB,256 GB,,,FreeDos,14.1 pulgadas,2.215.900
+https://www.exito.com/portatil-evoo-intel-core-i7-8gb-ram-256gb-ssd-windows-10-101505705-mp/p,EVOO,12 meses,CORE I7,8 GB,Mecánico 256 GB,,,Windows,15.6 Pulgadas,2.449.000
+https://www.exito.com/portatil-dell-vostro-3400-core-i5-ram-8gb-1tb-14-pulgadas-win-10-pro-102634429-mp/p,DELL,12 meses,,8 GB,Mecánico 500 GB,,,Windows,14.1 pulgadas,2.208.999
+https://www.exito.com/portatil-dell-inspiron-amd-ryzen-5-3450u-ssd-1tb-hdd-1tb-ram-16gb-102104173-mp/p,DELL,12 meses,RYZEN 5 3450U,16 GB,Híbrido,,,Windows 10,15.6 Pulgadas,2.819.790
+https://www.exito.com/laptop-dell-inspiron-3501-156-intel-core-i31005g1-101037959-mp/p,DELL,12 meses,Intel Core i3,4 GB,Mecánico 1 TB,,,FreeDos,15.6 Pulgadas,1.275.900
+https://www.exito.com/portatil-dell-ryzen-5-3450u-8gb-4gb-ssd-256gb-14-vostro-3405-102315537-mp/p,DELL,12 meses,,12 GB,256 GB,,,Ubuntu,14 Pulgadas,1.669.000
+https://www.exito.com/portatil-hp-14-cf2521la-i5-10210u-4gb-256gb-ssd-14-hd-no-touch-uma-102104228-mp/p,HP,12 meses,,4 GB,256 GB,,,Windows 10,14 Pulgadas,1.698.000
+https://www.exito.com/portatil-asus-x415ea-ek029-core-i3-1115g4-256-gb-ssd-4gb-ram-endless-101547261-mp/p,ASUS,12 meses,Core i3-1115G4,4 GB,256 GB,,,Endless,14.1 pulgadas,1.499.000
+https://www.exito.com/portatil-evoo-intel-core-i7-8gb-ram-256gb-ssd-w10-fhd-156-negro-101632193-mp/p,EVOO,12 meses,Intel Core,8 GB,256 GB,,,Windows 10 Home,15.6 Pulgadas,2.709.000
+https://www.exito.com/portatil-asus-m515da-amd-ryzen-5-3500u-ssd-512-hdd-1tb-ram-12gb-102140529-mp/p,ASUS,12 meses,RYZEN 5 3500U,12 GB,Híbrido,,,Windows 10,15.6 Pulgadas,2.419.000
+https://www.exito.com/portatil-hp-15-ef2517la-ryzen-5-5500u-ram-12gb-ssd-512gb-15-pulg-azul-102744878-mp/p,HP,12 meses,,12 GB,512 GB,,,FreeDos,15.6 Pulgadas,1.799.900
+https://www.exito.com/portatil-asus-expertbook-b5302fea-lg1161ra-procesador-intel-core-i5-1135g7-102674838-mp/p,ASUS,12 meses,,8 GB,256 GB,,,Windows,13 Pulgadas,5.219.900
+https://www.exito.com/portatil-dynabook-tecra-a40-k1438-core-i7-1260p-512gb-ssd-16gb-102420943-mp/p,DYNABOOK,12 meses,,16 GB,512 GB,,,Windows 10,14.1 pulgadas,6.939.000
+https://www.exito.com/portatil-dell-inspiron-amd-ryzen-5-3450u-ssd-1tb-hdd-1tb-ram-8gb-102104180-mp/p,DELL,12 meses,RYZEN 5 3450U,8 GB,Híbrido,,,Windows 10,15.6 Pulgadas,2.637.970
+https://www.exito.com/portatil-toshiba-dynabook-tecra-a40-j-intel-core-i5-1135g7-256gb-8gb-14-pulgadas-fhd-windows-10-pro-102522171-mp/p,TOSHIBA,12 meses,,8 GB,256 GB,,,Windows,14.1 pulgadas,3.099.900
+https://www.exito.com/portatil-dell-vostro-3405-ryzen-5-3450u-ram-8gb-disco-solido-512gb-ubuntu-14-pulgadas-102389434-mp/p,DELL,12 meses,,8 GB,512 GB,,,Ubuntu,14.1 pulgadas,1.944.900
+https://www.exito.com/portatil-dell-inspiron-15-3505-ryzen-5-3450u-ram-12gb-ssd-496gb-win-10-156-fhd-101870764-mp/p,DELL,12 meses,AMD Ryzen 5 3450U,12 GB,SSD 480 GB,,,Windows 10,15.6 Pulgadas,2.584.900
+https://www.exito.com/portatil-lenovo-amd-ryzen-5-5500u-hdd-1tb-ram-12-con-huella-102039202-mp/p,LENOVO,12 meses,RYZEN 5 5500U,12 GB,Mecánico 1 TB,,,FreeDos,14 Pulgadas,2.591.410
+https://www.exito.com/portatil-acer-aspire-intel-core-i5-10210u-ssd-512-hdd-1tb-ram-8gb-102071195-mp/p,ACER ASPIRE,12 meses,I5-10210U,8 GB,Híbrido,,,Windows,15 Pulgadas,1.999.000
+https://www.exito.com/portatil-hp-core-i7-1255u-12gen-8gb-ram-512gb-ssd-15dy5011la-102344908-mp/p,HP,12 meses,,8 GB,512 GB,,,FreeDos,15.6 Pulgadas,4.099.900
+https://www.exito.com/computador-portatil-asus-14-pulgadas-x415ma-bv462ts-intel-celeron-n4020-ssd-128gb-101832219-mp/p,ASUS,12 meses,CELERON N4020,4 GB,SSD 100 GB,,,WINDOWS 10,14 Pulgadas,899.000
+https://www.exito.com/portatil-hp-14-cf2516la-core-i3-10110u-4gb-512gb-ssd-win-10-h-102069700-mp/p,H HP,12 meses,Intel Core i3-10110U a 2,4 GB,512 GB,,,Windows,14 Pulgadas,1.549.900
+https://www.exito.com/portatil-hp-14-cf2087la-4gb-ssd-128gb-w10h-14hd-101549221-mp/p,HP,12 meses,Intel Celeron N4020,4 GB,128 GB,MX110,,Windows 10,14 Pulgadas,1.325.900
+https://www.exito.com/portatil-asus-p1412cea-ek0883x-intel-core-i5-1135g7-102674849-mp/p,ASUS,12 meses,INTEL CORE I5 1135G7,8 GB,512 GB,,,Windows,14 Pulgadas,2.449.900
+https://www.exito.com/portatil-asus-core-i7-1165g7-ram-8gb-ssd-512-pantalla-156-102375148-mp/p,ASUS,12 meses,,8 GB,512 GB,,,Endless,15.6 Pulgadas,3.099.900
+https://www.exito.com/portatil-asus-amd-r7-ram-16gb-512gb-ssd-nvidia-rtx-3050-102689364-mp/p,ASUS,12 meses,,16 GB,512 GB,,,Windows,15.6 Pulgadas,5.389.899
+https://www.exito.com/portatil-asus-m515da-amd-ryzen-5-3500u-ssd-1tb-hdd-1tb-ram-12gb-102140523-mp/p,ASUS,12 meses,RYZEN 5 3500U,12 GB,Híbrido,,,Windows 10,15.6 Pulgadas,2.569.000
+https://www.exito.com/dell-portatil-vostro-3405-amd-ryzen-5-3450u-14-8gb-1x8gb-ddr4-2400mhz-256gb-cl35-m2-ssd-ubuntu-linux-2004-v3405h-101866757-mp/p,DELL,12 meses,,8 GB,256 GB,,,Linux,14 Pulgadas,1.499.895
+https://www.exito.com/portatil-asus-expertbook-b1-b1400ceae-ek2160r-102191522-mp/p,ASUS,12 meses,,8 GB,256 GB,,,Windows 10,14 Pulgadas,5.089.900
+https://www.exito.com/portatil-asus-expertbook-core-i7-1165-16gb-512gb-ssd-nvidia-mx330-14-full-hd-windows-10-pro-102565590-mp/p,ASUS,12 meses,,16 GB,512 GB,,,Windows,14 Pulgadas,5.699.000
+https://www.exito.com/portatil-dell-vostro-3400-intel-core-i5-1135g7-4gb-1tb-14-pulgadas-101972927-mp/p,DELL,12 meses,intel core i5,4 GB,Mecánico 500 GB,,,Ubuntu,40 Pulgadas,1.779.000
+https://www.exito.com/portatil-lenovo-14-intel-pentium-gold-ram-4gb-128gb-ssd-102589566-mp/p,LENOVO,12 meses,,4 GB,128 GB,,,Windows,14.1 pulgadas,1.019.999
+https://www.exito.com/portatil-dell-vostro-3400-intel-core-i5-1135g7-4gb-1tb-14-pulgadas-mc-fee-licencia-101873026-mp/p,DELL,12 meses,intel core i5,4 GB,Mecánico 500 GB,,,Ubuntu,14 Pulgadas,1.779.000
+https://www.exito.com/portatil-dynabook-portege-x40-k1437-core-i7-1260p-512gb-ssd-16gb-102420938-mp/p,DYNABOOK,12 meses,,16 GB,512 GB,,,Windows 10,14.1 pulgadas,8.469.000
+https://www.exito.com/portatil-evoo-ultra-thin-intel-core-i7-6660u-pn-evc156-1bk-102403291-mp/p,EVOO,12 meses,,8 GB,256 GB,,,Windows 10,15.6 Pulgadas,2.709.000
+https://www.exito.com/portatil-dell-inspiron-amd-ryzen-5-3450u-ssd-1tb-hdd-1tb-ram-12gb-102104174-mp/p,DELL,12 meses,RYZEN 5 3450U,12 GB,Híbrido,,,Windows 10,15.6 Pulgadas,2.737.970
+https://www.exito.com/portatil-dell-inspiron-amd-ryzen-5-3450u-ssd-512-ram-12gb-102104185-mp/p,DELL,12 meses,RYZEN 5 3450U,12 GB,512 GB,,,Windows 10,15.6 Pulgadas,2.388.970
+https://www.exito.com/portatil-asus-m515-bq1237-ryzen3-ram-8gb-ssd-256-endless-102215886-mp/p,ASUS,12 meses,RYZEN 3-3250U,8 GB,256 GB,,,Endless,15 Pulgadas,1.449.000
+https://www.exito.com/portatil-lenovo-thinkbook-14-g2-itl-intel-core-i5-1135g7-ssd-256gb-8gb-14-pulgadas-fhd-windows-10-pro-102537153-mp/p,LENOVO,12 meses,Intel core i5,8 GB,256 GB,,,Windows 11 Profesional,14.1 pulgadas,4.299.000
+https://www.exito.com/portatil-lenovo-thinkbook-14-iml-core-i3-10ma-4gb-1tb-win-10-pro-edu-101542412-mp/p,LENOVO,12 meses,Intel Core I3-10110U,4 GB,Mecánico 1 TB,,,Windows 10,14.1 pulgadas,2.200.000
+https://www.exito.com/portatil-asus-k513ea-bq355-core-i5-ram8gb-512gb-ssd-endless-101945378-mp/p,ASUS,12 meses,,8 GB,512 GB,,,Endless,15.6 Pulgadas,2.399.000
+https://www.exito.com/portatil-xpg-intel-ci7-1165g7-ram-16gb-1tb-ssd-gammix-s50-windows-10-102693438-mp/p,XPG,12 meses,,16 GB,Disco sólido 1TB,,,Windows 10,15.6 Pulgadas,4.349.900
+https://www.exito.com/combo-portatil-hp-14-dq2520la-intel-core-i5-12gb-ssd-256gb-impresora-415-102740575-mp/p,HP,12 meses,,12 GB,256 GB,,,FreeDos,14 Pulgadas,2.299.900
+https://www.exito.com/portatil-hp-245-g8-pn-684j2la-102412747-mp/p,HP,12 meses,,4 GB,Disco sólido 1TB,,,Windows 10,13 Pulgadas,3.699.000
+https://www.exito.com/msi-cyborg-i7-12650h-ddr5-16gb-512gb-rtx-4060-8gb-156-144hz-102738383-mp/p,MSI,12 meses,CORE I7 12650H,16 GB,512 GB,,8 GB,FreeDos,15 Pulgadas,8.599.900
+https://www.exito.com/portatil-asus-m515da-amd-ryzen-5-3500u-hdd-1tb-ram-12gb-102140660-mp/p,ASUS,12 meses,RYZEN 5 3500U,12 GB,Mecánico 1 TB,,,Windows 10,15.6 Pulgadas,2.199.000
+https://www.exito.com/portatil-hp-14-cf2067la-ram8gbssd256gb-i3-10110u-102000519-mp/p,HP,12 meses,,8 GB,256 GB,,,Windows,14.1 pulgadas,1.798.900
+https://www.exito.com/portatil-acer-a515-45-r1sv-fhd-amd-r3-5300u-156-pulgadas-4gb1tbwindows-10-home-color-black-101970072-mp/p,ACER,12 meses,AMD Ryzen 3,4 GB,Mecánico 1 TB,,,Windows 10,15.6 Pulgadas,1.730.000
+https://www.exito.com/portatil-lenovo-v14ada-amd-athlon-gold-4gb-1tb-linux-14-101035739-mp/p,LENOVO,12 meses,AMD Athlon Gold,4 GB,Mecánico 1 TB,,,FreeDos,14.1 pulgadas,1.569.000
